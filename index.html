@@ -65,11 +65,18 @@
             <div class="mt-3">
 
                 <input class="" type="text" placeholder="Enter a city name" ng-model="cityInput">
-                <button ng-click="findCityDetails(cityInput)">Search</button>
+                <button ng-click="showCityDetails(cityInput)">Search</button>
                 <p></p>
             </div>
         </div>
-        {{locatedCity}}
+        <div ng-show="isCity">
+            <p>{{locatedCity.city}}</p>
+            <p >Temperature: {{locatedCityTemp}}</p>
+            <img ng-src="{{locatedCityImage}}" alt="">
+            <p>{{locatedCityHumid}}</p>
+            <p>{{locatedCityWind}}</p>
+            <p><a ng-href="{{locatedCityLink}}" target="_blank">Read More...</a></p>
+        </div>
     </div>
     <!-- <ng-view></ng-view> -->
     
