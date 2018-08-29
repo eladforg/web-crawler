@@ -1,5 +1,6 @@
 
-// crawler:
+// using x-ray npm for web-crawling:
+
 
 // var Crawler = require("js-crawler");
  
@@ -108,10 +109,10 @@ x('https://www.timeanddate.com/weather/?low=4','tr', [{
 
 x('https://www.timeanddate.com/weather/?low=4','tr', [{
 
-citySec: 'td:nth-child(5) a',
-linkSec: 'td:nth-child(5) a@href',
-tempSec: 'td:nth-child(8)',
-imgSec: 'td:nth-child(7) img@src',
+city: 'td:nth-child(5) a',
+link: 'td:nth-child(5) a@href',
+temp: 'td:nth-child(8)',
+img: 'td:nth-child(7) img@src',
 // humiditySec: x('td:nth-child(5) a@href', 'p:nth-child(7)'),
 }])
 // .paginate('td a@href')
@@ -121,10 +122,10 @@ imgSec: 'td:nth-child(7) img@src',
 
 x('https://www.timeanddate.com/weather/?low=4','tr', [{
 
-cityThird: 'td:nth-child(9) a',
-linkThird: 'td:nth-child(9) a@href',
-tempThird: 'td:nth-child(12)',
-imgThird: 'td:nth-child(11) img@src',
+city: 'td:nth-child(9) a',
+link: 'td:nth-child(9) a@href',
+temp: 'td:nth-child(12)',
+img: 'td:nth-child(11) img@src',
 
 }])
 // .paginate('td a@href')
