@@ -1,0 +1,866 @@
+[
+  {
+    "cityThird": "Panama",
+    "linkThird": "https://www.timeanddate.com/weather/panama/panama",
+    "tempThird": "26 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "cityThird": "Papeete",
+    "linkThird": "https://www.timeanddate.com/weather/france/papeete",
+    "tempThird": "25 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-14.png"
+  },
+  {
+    "cityThird": "Paramaribo",
+    "linkThird": "https://www.timeanddate.com/weather/suriname/paramaribo",
+    "tempThird": "28 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "cityThird": "Paris",
+    "linkThird": "https://www.timeanddate.com/weather/france/paris",
+    "tempThird": "17 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-7.png"
+  },
+  {
+    "cityThird": "Patna",
+    "linkThird": "https://www.timeanddate.com/weather/india/patna",
+    "tempThird": "32 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "cityThird": "Pensacola",
+    "linkThird": "https://www.timeanddate.com/weather/usa/pensacola",
+    "tempThird": "25 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "cityThird": "Perm",
+    "linkThird": "https://www.timeanddate.com/weather/russia/perm",
+    "tempThird": "26 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-1.png"
+  },
+  {
+    "cityThird": "Perth",
+    "linkThird": "https://www.timeanddate.com/weather/australia/perth",
+    "tempThird": "11 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-34.png"
+  },
+  {
+    "cityThird": "Petropavlovsk-Kamchatsky",
+    "linkThird": "https://www.timeanddate.com/weather/russia/petropavlovsk-kamchatsky",
+    "tempThird": "8 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-14.png"
+  },
+  {
+    "cityThird": "Pevek",
+    "linkThird": "https://www.timeanddate.com/weather/russia/pevek",
+    "tempThird": "7 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-17.png"
+  },
+  {
+    "cityThird": "Philadelphia",
+    "linkThird": "https://www.timeanddate.com/weather/usa/philadelphia",
+    "tempThird": "27 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-9.png"
+  },
+  {
+    "cityThird": "Phnom Penh",
+    "linkThird": "https://www.timeanddate.com/weather/cambodia/phnom-penh",
+    "tempThird": "30 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-14.png"
+  },
+  {
+    "cityThird": "Phoenix",
+    "linkThird": "https://www.timeanddate.com/weather/usa/phoenix",
+    "tempThird": "27 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-14.png"
+  },
+  {
+    "cityThird": "Podgorica",
+    "linkThird": "https://www.timeanddate.com/weather/montenegro/podgorica",
+    "tempThird": "32 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "cityThird": "Pond Inlet",
+    "linkThird": "https://www.timeanddate.com/weather/canada/pond-inlet",
+    "tempThird": "1 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-7.png"
+  },
+  {
+    "cityThird": "Ponta Delgada",
+    "linkThird": "https://www.timeanddate.com/weather/portugal/ponta-delgada-azores",
+    "tempThird": "25 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "cityThird": "Pontianak",
+    "linkThird": "https://www.timeanddate.com/weather/indonesia/pontianak",
+    "tempThird": "22 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-34.png"
+  },
+  {
+    "cityThird": "Port-au-Prince",
+    "linkThird": "https://www.timeanddate.com/weather/haiti/port-au-prince",
+    "tempThird": "29 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "cityThird": "Port-aux-Francais",
+    "linkThird": "https://www.timeanddate.com/weather/kergulen/port-aux-francais",
+    "tempThird": "2 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-7.png"
+  },
+  {
+    "cityThird": "Port Louis",
+    "linkThird": "https://www.timeanddate.com/weather/mauritius/port-louis",
+    "tempThird": "22 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "cityThird": "Port of Spain",
+    "linkThird": "https://www.timeanddate.com/weather/trinidad-and-tobago/port-of-spain",
+    "tempThird": "28 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "cityThird": "Port Vila",
+    "linkThird": "https://www.timeanddate.com/weather/vanuatu/port-vila",
+    "tempThird": "24 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-17.png"
+  },
+  {
+    "cityThird": "Portland",
+    "linkThird": "https://www.timeanddate.com/weather/usa/portland-or",
+    "tempThird": "14 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-14.png"
+  },
+  {
+    "cityThird": "Porto Novo",
+    "linkThird": "https://www.timeanddate.com/weather/benin/porto-novo",
+    "tempThird": "29 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "cityThird": "Prague",
+    "linkThird": "https://www.timeanddate.com/weather/czech-republic/prague",
+    "tempThird": "26 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "cityThird": "Praia",
+    "linkThird": "https://www.timeanddate.com/weather/cape-verde/praia",
+    "tempThird": "30 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "cityThird": "Pretoria",
+    "linkThird": "https://www.timeanddate.com/weather/south-africa/pretoria",
+    "tempThird": "22 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-1.png"
+  },
+  {
+    "cityThird": "Pristina",
+    "linkThird": "https://www.timeanddate.com/weather/kosovo/pristina",
+    "tempThird": "27 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "cityThird": "Providence",
+    "linkThird": "https://www.timeanddate.com/weather/usa/providence",
+    "tempThird": "29 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "cityThird": "Pune",
+    "linkThird": "https://www.timeanddate.com/weather/india/pune",
+    "tempThird": "26 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "cityThird": "Punta Arenas",
+    "linkThird": "https://www.timeanddate.com/weather/chile/punta-arenas",
+    "tempThird": "1 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "cityThird": "Pyongyang",
+    "linkThird": "https://www.timeanddate.com/weather/north-korea/pyongyang",
+    "tempThird": "25 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-14.png"
+  },
+  {
+    "cityThird": "Québec",
+    "linkThird": "https://www.timeanddate.com/weather/canada/quebec",
+    "tempThird": "19 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "cityThird": "Quito",
+    "linkThird": "https://www.timeanddate.com/weather/ecuador/quito",
+    "tempThird": "6 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "cityThird": "Rabat",
+    "linkThird": "https://www.timeanddate.com/weather/morocco/rabat",
+    "tempThird": "25 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "cityThird": "Raleigh",
+    "linkThird": "https://www.timeanddate.com/weather/usa/raleigh",
+    "tempThird": "24 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "cityThird": "Rapid City",
+    "linkThird": "https://www.timeanddate.com/weather/usa/rapid-city",
+    "tempThird": "10 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-1.png"
+  },
+  {
+    "cityThird": "Rarotonga",
+    "linkThird": "https://www.timeanddate.com/weather/cook-islands/rarotonga",
+    "tempThird": "21 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-14.png"
+  },
+  {
+    "cityThird": "Recife",
+    "linkThird": "https://www.timeanddate.com/weather/brazil/recife",
+    "tempThird": "25 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "cityThird": "Regina",
+    "linkThird": "https://www.timeanddate.com/weather/canada/regina",
+    "tempThird": "7 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-14.png"
+  },
+  {
+    "cityThird": "Resolute Bay",
+    "linkThird": "https://www.timeanddate.com/weather/canada/resolute",
+    "tempThird": "-3 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-29.png"
+  },
+  {
+    "cityThird": "Reykjavik",
+    "linkThird": "https://www.timeanddate.com/weather/iceland/reykjavik",
+    "tempThird": "9 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "cityThird": "Richmond",
+    "linkThird": "https://www.timeanddate.com/weather/usa/richmond",
+    "tempThird": "27 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-1.png"
+  },
+  {
+    "cityThird": "Riga",
+    "linkThird": "https://www.timeanddate.com/weather/latvia/riga",
+    "tempThird": "21 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-1.png"
+  },
+  {
+    "cityThird": "Rio Branco",
+    "linkThird": "https://www.timeanddate.com/weather/brazil/rio-branco",
+    "tempThird": "27 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-1.png"
+  },
+  {
+    "cityThird": "Rio de Janeiro",
+    "linkThird": "https://www.timeanddate.com/weather/brazil/rio-de-janeiro",
+    "tempThird": "23 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-1.png"
+  },
+  {
+    "cityThird": "Riyadh",
+    "linkThird": "https://www.timeanddate.com/weather/saudi-arabia/riyadh",
+    "tempThird": "42 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-1.png"
+  },
+  {
+    "cityThird": "Rome",
+    "linkThird": "https://www.timeanddate.com/weather/italy/rome",
+    "tempThird": "31 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-1.png"
+  },
+  {
+    "cityThird": "Roseau",
+    "linkThird": "https://www.timeanddate.com/weather/dominica/roseau",
+    "tempThird": "25 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-18.png"
+  },
+  {
+    "cityThird": "Rovaniemi",
+    "linkThird": "https://www.timeanddate.com/weather/finland/rovaniemi",
+    "tempThird": "18 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "cityThird": "Sacramento",
+    "linkThird": "https://www.timeanddate.com/weather/usa/sacramento",
+    "tempThird": "14 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-13.png"
+  },
+  {
+    "cityThird": "Saint-Denis",
+    "linkThird": "https://www.timeanddate.com/weather/reunion/saint-denis",
+    "tempThird": "23 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-7.png"
+  },
+  {
+    "cityThird": "Saint George's",
+    "linkThird": "https://www.timeanddate.com/weather/grenada/saint-georges",
+    "tempThird": "28 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "cityThird": "Saint John (CA - NB)",
+    "linkThird": "https://www.timeanddate.com/weather/canada/saint-john",
+    "tempThird": "22 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "cityThird": "Saint John's (Antigua)",
+    "linkThird": "https://www.timeanddate.com/weather/antigua-and-barbuda/saint-johns",
+    "tempThird": "25 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-22.png"
+  },
+  {
+    "cityThird": "Saint-Petersburg",
+    "linkThird": "https://www.timeanddate.com/weather/russia/saint-peterburg",
+    "tempThird": "16 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-18.png"
+  },
+  {
+    "cityThird": "Salem",
+    "linkThird": "https://www.timeanddate.com/weather/usa/salem",
+    "tempThird": "13 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-13.png"
+  },
+  {
+    "cityThird": "Salt Lake City",
+    "linkThird": "https://www.timeanddate.com/weather/usa/salt-lake-city",
+    "tempThird": "14 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "cityThird": "Salvador",
+    "linkThird": "https://www.timeanddate.com/weather/brazil/salvador",
+    "tempThird": "28 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "cityThird": "Samara",
+    "linkThird": "https://www.timeanddate.com/weather/russia/samara",
+    "tempThird": "26 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "cityThird": "San Diego",
+    "linkThird": "https://www.timeanddate.com/weather/usa/san-diego",
+    "tempThird": "21 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-15.png"
+  },
+  {
+    "cityThird": "San Francisco",
+    "linkThird": "https://www.timeanddate.com/weather/usa/san-francisco",
+    "tempThird": "15 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-14.png"
+  },
+  {
+    "cityThird": "San Jose (CR)",
+    "linkThird": "https://www.timeanddate.com/weather/costa-rica/san-jose",
+    "tempThird": "22 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "cityThird": "San Jose (USA)",
+    "linkThird": "https://www.timeanddate.com/weather/usa/san-jose",
+    "tempThird": "14 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-14.png"
+  },
+  {
+    "cityThird": "San Juan",
+    "linkThird": "https://www.timeanddate.com/weather/puerto-rico/san-juan",
+    "tempThird": "28 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "cityThird": "San Marino",
+    "linkThird": "https://www.timeanddate.com/weather/san-marino/san-marino",
+    "tempThird": "27 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "cityThird": "San Salvador",
+    "linkThird": "https://www.timeanddate.com/weather/el-salvador/san-salvador",
+    "tempThird": "20 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-1.png"
+  },
+  {
+    "cityThird": "Santiago",
+    "linkThird": "https://www.timeanddate.com/weather/chile/santiago",
+    "tempThird": "5 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-36.png"
+  },
+  {
+    "cityThird": "Santo Domingo",
+    "linkThird": "https://www.timeanddate.com/weather/dominican-republic/santo-domingo",
+    "tempThird": "27 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "cityThird": "São Paulo",
+    "linkThird": "https://www.timeanddate.com/weather/brazil/sao-paulo",
+    "tempThird": "17 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "cityThird": "São Tomé",
+    "linkThird": "https://www.timeanddate.com/weather/sao-tome-and-principe/sao-tome",
+    "tempThird": "28 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "cityThird": "Sapporo",
+    "linkThird": "https://www.timeanddate.com/weather/japan/sapporo",
+    "tempThird": "19 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-17.png"
+  },
+  {
+    "cityThird": "Sarajevo",
+    "linkThird": "https://www.timeanddate.com/weather/bosnia-herzegovina/sarajevo",
+    "tempThird": "26 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "cityThird": "Seattle",
+    "linkThird": "https://www.timeanddate.com/weather/usa/seattle",
+    "tempThird": "14 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-14.png"
+  },
+  {
+    "cityThird": "Seoul",
+    "linkThird": "https://www.timeanddate.com/weather/south-korea/seoul",
+    "tempThird": "25 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-34.png"
+  },
+  {
+    "cityThird": "Shanghai",
+    "linkThird": "https://www.timeanddate.com/weather/china/shanghai",
+    "tempThird": "30 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-13.png"
+  },
+  {
+    "cityThird": "Shenzhen",
+    "linkThird": "https://www.timeanddate.com/weather/china/shenzhen",
+    "tempThird": "25 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-34.png"
+  },
+  {
+    "cityThird": "Singapore",
+    "linkThird": "https://www.timeanddate.com/weather/singapore/singapore",
+    "tempThird": "28 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-14.png"
+  },
+  {
+    "cityThird": "Sioux Falls",
+    "linkThird": "https://www.timeanddate.com/weather/usa/sioux-falls",
+    "tempThird": "12 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-1.png"
+  },
+  {
+    "cityThird": "Skopje",
+    "linkThird": "https://www.timeanddate.com/weather/republic-of-macedonia/skopje",
+    "tempThird": "29 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-1.png"
+  },
+  {
+    "cityThird": "Sofia",
+    "linkThird": "https://www.timeanddate.com/weather/bulgaria/sofia",
+    "tempThird": "26 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "cityThird": "Sri Jayawardenepura Kotte",
+    "linkThird": "https://www.timeanddate.com/weather/sri-lanka/sri-jayawardenapura-kotte",
+    "tempThird": "28 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "cityThird": "St. John's (CA - NF)",
+    "linkThird": "https://www.timeanddate.com/weather/canada/st-johns",
+    "tempThird": "18 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "cityThird": "St. Louis",
+    "linkThird": "https://www.timeanddate.com/weather/usa/st-louis",
+    "tempThird": "22 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-22.png"
+  },
+  {
+    "cityThird": "St. Paul",
+    "linkThird": "https://www.timeanddate.com/weather/usa/st-paul",
+    "tempThird": "12 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-7.png"
+  },
+  {
+    "cityThird": "Stanley",
+    "linkThird": "https://www.timeanddate.com/weather/falkland/stanley",
+    "tempThird": "4 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "cityThird": "Stockholm",
+    "linkThird": "https://www.timeanddate.com/weather/sweden/stockholm",
+    "tempThird": "20 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "cityThird": "Surabaya",
+    "linkThird": "https://www.timeanddate.com/weather/indonesia/surabaya",
+    "tempThird": "27 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-34.png"
+  },
+  {
+    "cityThird": "Suva",
+    "linkThird": "https://www.timeanddate.com/weather/fiji/suva",
+    "tempThird": "24 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-17.png"
+  },
+  {
+    "cityThird": "Suzhou",
+    "linkThird": "https://www.timeanddate.com/weather/china/suzhou",
+    "tempThird": "30 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-13.png"
+  },
+  {
+    "cityThird": "Sydney",
+    "linkThird": "https://www.timeanddate.com/weather/australia/sydney",
+    "tempThird": "11 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-13.png"
+  },
+  {
+    "cityThird": "Taipei",
+    "linkThird": "https://www.timeanddate.com/weather/taiwan/taipei",
+    "tempThird": "26 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-34.png"
+  },
+  {
+    "cityThird": "Tallinn",
+    "linkThird": "https://www.timeanddate.com/weather/estonia/tallinn",
+    "tempThird": "20 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "cityThird": "Tashkent",
+    "linkThird": "https://www.timeanddate.com/weather/uzbekistan/tashkent",
+    "tempThird": "28 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-1.png"
+  },
+  {
+    "cityThird": "Tbilisi",
+    "linkThird": "https://www.timeanddate.com/weather/georgia/tbilisi",
+    "tempThird": "32 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-1.png"
+  },
+  {
+    "cityThird": "Tegucigalpa",
+    "linkThird": "https://www.timeanddate.com/weather/honduras/tegucigalpa",
+    "tempThird": "18 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "cityThird": "Tehran",
+    "linkThird": "https://www.timeanddate.com/weather/iran/tehran",
+    "tempThird": "36 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-1.png"
+  },
+  {
+    "cityThird": "Tel Aviv",
+    "linkThird": "https://www.timeanddate.com/weather/israel/tel-aviv",
+    "tempThird": "31 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "cityThird": "Thimphu",
+    "linkThird": "https://www.timeanddate.com/weather/bhutan/thimphu",
+    "tempThird": "10 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-17.png"
+  },
+  {
+    "cityThird": "Thiruvananthapuram",
+    "linkThird": "https://www.timeanddate.com/weather/india/thiruvananthapuram",
+    "tempThird": "26 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "cityThird": "Thule Air Base",
+    "linkThird": "https://www.timeanddate.com/weather/greenland/thule-air-base",
+    "tempThird": "2 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-7.png"
+  },
+  {
+    "cityThird": "Tijuana",
+    "linkThird": "https://www.timeanddate.com/weather/mexico/tijuana",
+    "tempThird": "17 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-14.png"
+  },
+  {
+    "cityThird": "Tiksi",
+    "linkThird": "https://www.timeanddate.com/weather/russia/tiksi",
+    "tempThird": "13 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-14.png"
+  },
+  {
+    "cityThird": "Tirana",
+    "linkThird": "https://www.timeanddate.com/weather/albania/tirana",
+    "tempThird": "33 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "cityThird": "Tokyo",
+    "linkThird": "https://www.timeanddate.com/weather/japan/tokyo",
+    "tempThird": "27 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-17.png"
+  },
+  {
+    "cityThird": "Topeka",
+    "linkThird": "https://www.timeanddate.com/weather/usa/topeka",
+    "tempThird": "16 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "cityThird": "Toronto",
+    "linkThird": "https://www.timeanddate.com/weather/canada/toronto",
+    "tempThird": "24 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "cityThird": "Tórshavn",
+    "linkThird": "https://www.timeanddate.com/weather/faroe/torshavn",
+    "tempThird": "12 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "cityThird": "Tromsø",
+    "linkThird": "https://www.timeanddate.com/weather/norway/tromso",
+    "tempThird": "15 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-7.png"
+  },
+  {
+    "cityThird": "Tunis",
+    "linkThird": "https://www.timeanddate.com/weather/tunisia/tunis",
+    "tempThird": "30 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "cityThird": "Ufa",
+    "linkThird": "https://www.timeanddate.com/weather/russia/ufa",
+    "tempThird": "24 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-1.png"
+  },
+  {
+    "cityThird": "Ulaanbaatar",
+    "linkThird": "https://www.timeanddate.com/weather/mongolia/ulaanbaatar",
+    "tempThird": "13 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-14.png"
+  },
+  {
+    "cityThird": "Unalaska",
+    "linkThird": "https://www.timeanddate.com/weather/usa/unalaska",
+    "tempThird": "17 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-17.png"
+  },
+  {
+    "cityThird": "Ürümqi",
+    "linkThird": "https://www.timeanddate.com/weather/china/urumqi",
+    "tempThird": "24 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-17.png"
+  },
+  {
+    "cityThird": "Vaduz",
+    "linkThird": "https://www.timeanddate.com/weather/liechtenstein/vaduz",
+    "tempThird": "28 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "cityThird": "Valletta",
+    "linkThird": "https://www.timeanddate.com/weather/malta/valletta",
+    "tempThird": "29 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "cityThird": "Vancouver",
+    "linkThird": "https://www.timeanddate.com/weather/canada/vancouver",
+    "tempThird": "16 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-17.png"
+  },
+  {
+    "cityThird": "Varanasi",
+    "linkThird": "https://www.timeanddate.com/weather/india/varanasi",
+    "tempThird": "30 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "cityThird": "Vatican City",
+    "linkThird": "https://www.timeanddate.com/weather/vatican-city-state/vatican-city",
+    "tempThird": "31 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-1.png"
+  },
+  {
+    "cityThird": "Veracruz",
+    "linkThird": "https://www.timeanddate.com/weather/mexico/veracruz",
+    "tempThird": "23 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "cityThird": "Verkhoyansk",
+    "linkThird": "https://www.timeanddate.com/weather/russia/verkhoyansk",
+    "tempThird": "10 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-13.png"
+  },
+  {
+    "cityThird": "Victoria",
+    "linkThird": "https://www.timeanddate.com/weather/seychelles/victoria",
+    "tempThird": "25 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-18.png"
+  },
+  {
+    "cityThird": "Vienna",
+    "linkThird": "https://www.timeanddate.com/weather/austria/vienna",
+    "tempThird": "28 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "cityThird": "Vientiane",
+    "linkThird": "https://www.timeanddate.com/weather/laos/vientiane",
+    "tempThird": "25 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-9.png"
+  },
+  {
+    "cityThird": "Vilnius",
+    "linkThird": "https://www.timeanddate.com/weather/lithuania/vilnius",
+    "tempThird": "16 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-33.png"
+  },
+  {
+    "cityThird": "Vladivostok",
+    "linkThird": "https://www.timeanddate.com/weather/russia/vladivostok",
+    "tempThird": "18 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-34.png"
+  },
+  {
+    "cityThird": "Wake Island",
+    "linkThird": "https://www.timeanddate.com/weather/usa/wake-island",
+    "tempThird": "28 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-36.png"
+  },
+  {
+    "cityThird": "Warsaw",
+    "linkThird": "https://www.timeanddate.com/weather/poland/warsaw",
+    "tempThird": "22 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "cityThird": "Washington DC",
+    "linkThird": "https://www.timeanddate.com/weather/usa/washington-dc",
+    "tempThird": "27 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "cityThird": "Wellington",
+    "linkThird": "https://www.timeanddate.com/weather/new-zealand/wellington",
+    "tempThird": "12 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-14.png"
+  },
+  {
+    "cityThird": "Whitehorse",
+    "linkThird": "https://www.timeanddate.com/weather/canada/whitehorse",
+    "tempThird": "9 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-14.png"
+  },
+  {
+    "cityThird": "Windhoek",
+    "linkThird": "https://www.timeanddate.com/weather/namibia/windhoek",
+    "tempThird": "25 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-1.png"
+  },
+  {
+    "cityThird": "Winnipeg",
+    "linkThird": "https://www.timeanddate.com/weather/canada/winnipeg",
+    "tempThird": "13 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-36.png"
+  },
+  {
+    "cityThird": "Yakutsk",
+    "linkThird": "https://www.timeanddate.com/weather/russia/yakutsk",
+    "tempThird": "14 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-13.png"
+  },
+  {
+    "cityThird": "Yamoussoukro",
+    "linkThird": "https://www.timeanddate.com/weather/cote-divoire/yamoussoukro",
+    "tempThird": "27 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-7.png"
+  },
+  {
+    "cityThird": "Yangon",
+    "linkThird": "https://www.timeanddate.com/weather/myanmar/yangon",
+    "tempThird": "26 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-17.png"
+  },
+  {
+    "cityThird": "Yaoundé",
+    "linkThird": "https://www.timeanddate.com/weather/cameroon/yaounde",
+    "tempThird": "28 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "cityThird": "Yekaterinburg",
+    "linkThird": "https://www.timeanddate.com/weather/russia/yekaterinburg",
+    "tempThird": "23 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "cityThird": "Yellowknife",
+    "linkThird": "https://www.timeanddate.com/weather/canada/yellowknife",
+    "tempThird": "8 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-14.png"
+  },
+  {
+    "cityThird": "Yerevan",
+    "linkThird": "https://www.timeanddate.com/weather/armenia/yerevan",
+    "tempThird": "30 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-1.png"
+  },
+  {
+    "cityThird": "Yokohama",
+    "linkThird": "https://www.timeanddate.com/weather/japan/yokohama",
+    "tempThird": "27 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-14.png"
+  },
+  {
+    "cityThird": "Yuzhno-Sakhalinsk",
+    "linkThird": "https://www.timeanddate.com/weather/russia/yuzhno-sakhalinsk",
+    "tempThird": "13 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-14.png"
+  },
+  {
+    "cityThird": "Zagreb",
+    "linkThird": "https://www.timeanddate.com/weather/croatia/zagreb",
+    "tempThird": "28 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-1.png"
+  },
+  {
+    "cityThird": "Zürich",
+    "linkThird": "https://www.timeanddate.com/weather/switzerland/zurich",
+    "tempThird": "27 °C",
+    "imgThird": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  }
+]

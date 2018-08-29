@@ -1,0 +1,878 @@
+[
+  {
+    "citySec": "Halifax",
+    "linkSec": "https://www.timeanddate.com/weather/canada/halifax",
+    "tempSec": "24 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "citySec": "Hamilton",
+    "linkSec": "https://www.timeanddate.com/weather/bermuda/hamilton",
+    "tempSec": "28 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "citySec": "Hanoi",
+    "linkSec": "https://www.timeanddate.com/weather/vietnam/hanoi",
+    "tempSec": "26 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-22.png"
+  },
+  {
+    "citySec": "Happy Valley-Goose Bay",
+    "linkSec": "https://www.timeanddate.com/weather/canada/happy-valley-goose-bay",
+    "tempSec": "12 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "citySec": "Harare",
+    "linkSec": "https://www.timeanddate.com/weather/zimbabwe/harare",
+    "tempSec": "20 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "citySec": "Hartford",
+    "linkSec": "https://www.timeanddate.com/weather/usa/hartford",
+    "tempSec": "28 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-1.png"
+  },
+  {
+    "citySec": "Havana",
+    "linkSec": "https://www.timeanddate.com/weather/cuba/havana",
+    "tempSec": "26 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "citySec": "Helsinki",
+    "linkSec": "https://www.timeanddate.com/weather/finland/helsinki",
+    "tempSec": "21 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "citySec": "Hermosillo",
+    "linkSec": "https://www.timeanddate.com/weather/mexico/hermosillo",
+    "tempSec": "29 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-15.png"
+  },
+  {
+    "citySec": "Ho Chi Minh",
+    "linkSec": "https://www.timeanddate.com/weather/vietnam/ho-chi-minh",
+    "tempSec": "26 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-15.png"
+  },
+  {
+    "citySec": "Hobart",
+    "linkSec": "https://www.timeanddate.com/weather/australia/hobart",
+    "tempSec": "3 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-14.png"
+  },
+  {
+    "citySec": "Hong Kong",
+    "linkSec": "https://www.timeanddate.com/weather/hong-kong/hong-kong",
+    "tempSec": "28 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-34.png"
+  },
+  {
+    "citySec": "Honiara",
+    "linkSec": "https://www.timeanddate.com/weather/solomon-islands/honiara",
+    "tempSec": "25 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-14.png"
+  },
+  {
+    "citySec": "Honolulu",
+    "linkSec": "https://www.timeanddate.com/weather/usa/honolulu",
+    "tempSec": "26 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-14.png"
+  },
+  {
+    "citySec": "Houston",
+    "linkSec": "https://www.timeanddate.com/weather/usa/houston",
+    "tempSec": "27 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "citySec": "Hovd",
+    "linkSec": "https://www.timeanddate.com/weather/mongolia/hovd",
+    "tempSec": "22 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-7.png"
+  },
+  {
+    "citySec": "Indianapolis",
+    "linkSec": "https://www.timeanddate.com/weather/usa/indianapolis",
+    "tempSec": "23 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-18.png"
+  },
+  {
+    "citySec": "Indore",
+    "linkSec": "https://www.timeanddate.com/weather/india/indore",
+    "tempSec": "23 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-18.png"
+  },
+  {
+    "citySec": "Inuvik",
+    "linkSec": "https://www.timeanddate.com/weather/canada/inuvik",
+    "tempSec": "1 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-34.png"
+  },
+  {
+    "citySec": "Irkutsk",
+    "linkSec": "https://www.timeanddate.com/weather/russia/irkutsk",
+    "tempSec": "15 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-22.png"
+  },
+  {
+    "citySec": "Islamabad",
+    "linkSec": "https://www.timeanddate.com/weather/pakistan/islamabad",
+    "tempSec": "35 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "citySec": "Istanbul",
+    "linkSec": "https://www.timeanddate.com/weather/turkey/istanbul",
+    "tempSec": "30 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "citySec": "Ittoqqortoormiit",
+    "linkSec": "https://www.timeanddate.com/weather/greenland/ittoqqortoormiit",
+    "tempSec": "6 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "citySec": "Izhevsk",
+    "linkSec": "https://www.timeanddate.com/weather/russia/izhevsk",
+    "tempSec": "26 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "citySec": "Jackson",
+    "linkSec": "https://www.timeanddate.com/weather/usa/jackson",
+    "tempSec": "25 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-1.png"
+  },
+  {
+    "citySec": "Jakarta",
+    "linkSec": "https://www.timeanddate.com/weather/indonesia/jakarta",
+    "tempSec": "29 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-17.png"
+  },
+  {
+    "citySec": "Jamestown",
+    "linkSec": "https://www.timeanddate.com/weather/uk/jamestown",
+    "tempSec": "17 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-7.png"
+  },
+  {
+    "citySec": "Jayapura",
+    "linkSec": "https://www.timeanddate.com/weather/indonesia/jayapura",
+    "tempSec": "27 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-14.png"
+  },
+  {
+    "citySec": "Jerusalem",
+    "linkSec": "https://www.timeanddate.com/weather/israel/jerusalem",
+    "tempSec": "31 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "citySec": "Johannesburg",
+    "linkSec": "https://www.timeanddate.com/weather/south-africa/johannesburg",
+    "tempSec": "20 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-1.png"
+  },
+  {
+    "citySec": "Juneau",
+    "linkSec": "https://www.timeanddate.com/weather/usa/juneau",
+    "tempSec": "11 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-17.png"
+  },
+  {
+    "citySec": "Kaliningrad",
+    "linkSec": "https://www.timeanddate.com/weather/russia/kaliningrad",
+    "tempSec": "19 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "citySec": "Kampala",
+    "linkSec": "https://www.timeanddate.com/weather/uganda/kampala",
+    "tempSec": "24 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "citySec": "Kangerlussuaq",
+    "linkSec": "https://www.timeanddate.com/weather/greenland/kangerlussuaq",
+    "tempSec": "6 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "citySec": "Kansas City",
+    "linkSec": "https://www.timeanddate.com/weather/usa/kansas-city",
+    "tempSec": "17 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-7.png"
+  },
+  {
+    "citySec": "Karachi",
+    "linkSec": "https://www.timeanddate.com/weather/pakistan/karachi",
+    "tempSec": "29 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "citySec": "Kathmandu",
+    "linkSec": "https://www.timeanddate.com/weather/nepal/kathmandu",
+    "tempSec": "23 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-19.png"
+  },
+  {
+    "citySec": "Kazan",
+    "linkSec": "https://www.timeanddate.com/weather/russia/kazan",
+    "tempSec": "27 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "citySec": "Kemi",
+    "linkSec": "https://www.timeanddate.com/weather/finland/kemi",
+    "tempSec": "18 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-1.png"
+  },
+  {
+    "citySec": "Khartoum",
+    "linkSec": "https://www.timeanddate.com/weather/sudan/khartoum",
+    "tempSec": "34 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-1.png"
+  },
+  {
+    "citySec": "Khatanga",
+    "linkSec": "https://www.timeanddate.com/weather/russia/khatanga",
+    "tempSec": "20 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "citySec": "Kigali",
+    "linkSec": "https://www.timeanddate.com/weather/rwanda/kigali",
+    "tempSec": "16 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-22.png"
+  },
+  {
+    "citySec": "Kingston",
+    "linkSec": "https://www.timeanddate.com/weather/jamaica/kingston",
+    "tempSec": "28 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-7.png"
+  },
+  {
+    "citySec": "Kingstown",
+    "linkSec": "https://www.timeanddate.com/weather/saint-vincent-and-grenadines/kingstown",
+    "tempSec": "28 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "citySec": "Kinshasa",
+    "linkSec": "https://www.timeanddate.com/weather/congo-demrep/kinshasa",
+    "tempSec": "26 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "citySec": "Kiritimati",
+    "linkSec": "https://www.timeanddate.com/weather/kiribati/kiritimati",
+    "tempSec": "26 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-14.png"
+  },
+  {
+    "citySec": "Knoxville",
+    "linkSec": "https://www.timeanddate.com/weather/usa/knoxville",
+    "tempSec": "24 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "citySec": "Kobe",
+    "linkSec": "https://www.timeanddate.com/weather/japan/kobe",
+    "tempSec": "28 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-14.png"
+  },
+  {
+    "citySec": "Kolkata",
+    "linkSec": "https://www.timeanddate.com/weather/india/kolkata",
+    "tempSec": "28 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-15.png"
+  },
+  {
+    "citySec": "Komsomolsk-on-Amur",
+    "linkSec": "https://www.timeanddate.com/weather/russia/komsomolsk-on-amur",
+    "tempSec": "20 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-17.png"
+  },
+  {
+    "citySec": "Krasnoyarsk",
+    "linkSec": "https://www.timeanddate.com/weather/russia/krasnoyarsk",
+    "tempSec": "20 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "citySec": "Kuala Lumpur",
+    "linkSec": "https://www.timeanddate.com/weather/malaysia/kuala-lumpur",
+    "tempSec": "28 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "citySec": "Kuujjuaq",
+    "linkSec": "https://www.timeanddate.com/weather/canada/kuujjuaq",
+    "tempSec": "4 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-7.png"
+  },
+  {
+    "citySec": "Kuwait City",
+    "linkSec": "https://www.timeanddate.com/weather/kuwait/kuwait-city",
+    "tempSec": "46 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-1.png"
+  },
+  {
+    "citySec": "Kyiv",
+    "linkSec": "https://www.timeanddate.com/weather/ukraine/kyiv",
+    "tempSec": "22 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "citySec": "Kyoto",
+    "linkSec": "https://www.timeanddate.com/weather/japan/kyoto",
+    "tempSec": "28 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-14.png"
+  },
+  {
+    "citySec": "La Paz",
+    "linkSec": "https://www.timeanddate.com/weather/bolivia/la-paz",
+    "tempSec": "3 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "citySec": "Lagos",
+    "linkSec": "https://www.timeanddate.com/weather/nigeria/lagos",
+    "tempSec": "28 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "citySec": "Lahore",
+    "linkSec": "https://www.timeanddate.com/weather/pakistan/lahore",
+    "tempSec": "32 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "citySec": "Las Vegas",
+    "linkSec": "https://www.timeanddate.com/weather/usa/las-vegas",
+    "tempSec": "26 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-14.png"
+  },
+  {
+    "citySec": "Lhasa",
+    "linkSec": "https://www.timeanddate.com/weather/china/lhasa",
+    "tempSec": "19 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-17.png"
+  },
+  {
+    "citySec": "Libreville",
+    "linkSec": "https://www.timeanddate.com/weather/gabon/libreville",
+    "tempSec": "29 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "citySec": "Lilongwe",
+    "linkSec": "https://www.timeanddate.com/weather/malawi/lilongwe",
+    "tempSec": "24 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "citySec": "Lima",
+    "linkSec": "https://www.timeanddate.com/weather/peru/lima",
+    "tempSec": "16 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-17.png"
+  },
+  {
+    "citySec": "Lincoln",
+    "linkSec": "https://www.timeanddate.com/weather/usa/lincoln",
+    "tempSec": "13 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-1.png"
+  },
+  {
+    "citySec": "Lisbon",
+    "linkSec": "https://www.timeanddate.com/weather/portugal/lisbon",
+    "tempSec": "25 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "citySec": "Little Rock",
+    "linkSec": "https://www.timeanddate.com/weather/usa/little-rock",
+    "tempSec": "24 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-7.png"
+  },
+  {
+    "citySec": "Ljubljana",
+    "linkSec": "https://www.timeanddate.com/weather/slovenia/ljubljana",
+    "tempSec": "26 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "citySec": "Lomé",
+    "linkSec": "https://www.timeanddate.com/weather/togo/lome",
+    "tempSec": "29 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "citySec": "London",
+    "linkSec": "https://www.timeanddate.com/weather/uk/london",
+    "tempSec": "18 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "citySec": "Longyearbyen",
+    "linkSec": "https://www.timeanddate.com/weather/norway/longyearbyen",
+    "tempSec": "7 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "citySec": "Los Angeles",
+    "linkSec": "https://www.timeanddate.com/weather/usa/los-angeles",
+    "tempSec": "20 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-13.png"
+  },
+  {
+    "citySec": "Louisville",
+    "linkSec": "https://www.timeanddate.com/weather/usa/louisville",
+    "tempSec": "27 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "citySec": "Luanda",
+    "linkSec": "https://www.timeanddate.com/weather/angola/luanda",
+    "tempSec": "26 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "citySec": "Ludhiana",
+    "linkSec": "https://www.timeanddate.com/weather/india/ludhiana",
+    "tempSec": "32 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "citySec": "Lusaka",
+    "linkSec": "https://www.timeanddate.com/weather/zambia/lusaka",
+    "tempSec": "24 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "citySec": "Luxembourg",
+    "linkSec": "https://www.timeanddate.com/weather/luxembourg/luxembourg",
+    "tempSec": "19 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-18.png"
+  },
+  {
+    "citySec": "Madison",
+    "linkSec": "https://www.timeanddate.com/weather/usa/madison",
+    "tempSec": "17 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "citySec": "Madrid",
+    "linkSec": "https://www.timeanddate.com/weather/spain/madrid",
+    "tempSec": "30 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-1.png"
+  },
+  {
+    "citySec": "Magadan",
+    "linkSec": "https://www.timeanddate.com/weather/russia/magadan",
+    "tempSec": "8 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-14.png"
+  },
+  {
+    "citySec": "Majuro",
+    "linkSec": "https://www.timeanddate.com/weather/marshall-islands/majuro",
+    "tempSec": "27 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-15.png"
+  },
+  {
+    "citySec": "Makassar",
+    "linkSec": "https://www.timeanddate.com/weather/indonesia/makassar",
+    "tempSec": "26 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-14.png"
+  },
+  {
+    "citySec": "Makkah",
+    "linkSec": "https://www.timeanddate.com/weather/saudi-arabia/makkah",
+    "tempSec": "35 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "citySec": "Malabo",
+    "linkSec": "https://www.timeanddate.com/weather/equatorial-guinea/malabo",
+    "tempSec": "28 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-22.png"
+  },
+  {
+    "citySec": "Male",
+    "linkSec": "https://www.timeanddate.com/weather/maldives/male",
+    "tempSec": "30 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "citySec": "Manado",
+    "linkSec": "https://www.timeanddate.com/weather/indonesia/manado",
+    "tempSec": "24 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-14.png"
+  },
+  {
+    "citySec": "Managua",
+    "linkSec": "https://www.timeanddate.com/weather/nicaragua/managua",
+    "tempSec": "24 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "citySec": "Manama",
+    "linkSec": "https://www.timeanddate.com/weather/bahrain/manama",
+    "tempSec": "35 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-1.png"
+  },
+  {
+    "citySec": "Manaus",
+    "linkSec": "https://www.timeanddate.com/weather/brazil/manaus",
+    "tempSec": "26 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "citySec": "Manila",
+    "linkSec": "https://www.timeanddate.com/weather/philippines/manila",
+    "tempSec": "30 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-14.png"
+  },
+  {
+    "citySec": "Manokwari",
+    "linkSec": "https://www.timeanddate.com/weather/indonesia/manokwari",
+    "tempSec": "25 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-19.png"
+  },
+  {
+    "citySec": "Maputo",
+    "linkSec": "https://www.timeanddate.com/weather/mozambique/maputo",
+    "tempSec": "25 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "citySec": "Marion Island (Prince Edward Islands)",
+    "linkSec": "https://www.timeanddate.com/weather/south-africa/marion-island-prince-edward-islands",
+    "tempSec": "4 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "citySec": "Mary's Harbour",
+    "linkSec": "https://www.timeanddate.com/weather/canada/mary-s-harbour",
+    "tempSec": "11 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "citySec": "Maseru",
+    "linkSec": "https://www.timeanddate.com/weather/lesotho/maseru",
+    "tempSec": "19 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-1.png"
+  },
+  {
+    "citySec": "Mazatlan",
+    "linkSec": "https://www.timeanddate.com/weather/mexico/mazatlan",
+    "tempSec": "23 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-22.png"
+  },
+  {
+    "citySec": "Mbabane",
+    "linkSec": "https://www.timeanddate.com/weather/swaziland/mbabane",
+    "tempSec": "23 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "citySec": "Medina",
+    "linkSec": "https://www.timeanddate.com/weather/saudi-arabia/medina",
+    "tempSec": "43 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "citySec": "Melbourne",
+    "linkSec": "https://www.timeanddate.com/weather/australia/melbourne",
+    "tempSec": "3 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-13.png"
+  },
+  {
+    "citySec": "Mexicali",
+    "linkSec": "https://www.timeanddate.com/weather/mexico/mexicali",
+    "tempSec": "27 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-13.png"
+  },
+  {
+    "citySec": "Mexico City",
+    "linkSec": "https://www.timeanddate.com/weather/mexico/mexico-city",
+    "tempSec": "15 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "citySec": "Miami",
+    "linkSec": "https://www.timeanddate.com/weather/usa/miami",
+    "tempSec": "29 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "citySec": "Midland",
+    "linkSec": "https://www.timeanddate.com/weather/usa/midland",
+    "tempSec": "25 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-36.png"
+  },
+  {
+    "citySec": "Midway",
+    "linkSec": "https://www.timeanddate.com/weather/usa/midway",
+    "tempSec": "26 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-14.png"
+  },
+  {
+    "citySec": "Milan",
+    "linkSec": "https://www.timeanddate.com/weather/italy/milan",
+    "tempSec": "29 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-1.png"
+  },
+  {
+    "citySec": "Milwaukee",
+    "linkSec": "https://www.timeanddate.com/weather/usa/milwaukee",
+    "tempSec": "17 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-18.png"
+  },
+  {
+    "citySec": "Minneapolis",
+    "linkSec": "https://www.timeanddate.com/weather/usa/minneapolis",
+    "tempSec": "12 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "citySec": "Minsk",
+    "linkSec": "https://www.timeanddate.com/weather/belarus/minsk",
+    "tempSec": "18 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-18.png"
+  },
+  {
+    "citySec": "Monaco",
+    "linkSec": "https://www.timeanddate.com/weather/monaco/monaco",
+    "tempSec": "28 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-1.png"
+  },
+  {
+    "citySec": "Monrovia",
+    "linkSec": "https://www.timeanddate.com/weather/liberia/monrovia",
+    "tempSec": "29 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "citySec": "Montevideo",
+    "linkSec": "https://www.timeanddate.com/weather/uruguay/montevideo",
+    "tempSec": "14 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "citySec": "Montgomery",
+    "linkSec": "https://www.timeanddate.com/weather/usa/montgomery",
+    "tempSec": "25 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "citySec": "Montpelier",
+    "linkSec": "https://www.timeanddate.com/weather/usa/montpelier",
+    "tempSec": "22 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-1.png"
+  },
+  {
+    "citySec": "Montréal",
+    "linkSec": "https://www.timeanddate.com/weather/canada/montreal",
+    "tempSec": "24 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "citySec": "Moroni",
+    "linkSec": "https://www.timeanddate.com/weather/comoros/moroni",
+    "tempSec": "26 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-18.png"
+  },
+  {
+    "citySec": "Moscow",
+    "linkSec": "https://www.timeanddate.com/weather/russia/moscow",
+    "tempSec": "30 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "citySec": "Mumbai",
+    "linkSec": "https://www.timeanddate.com/weather/india/mumbai",
+    "tempSec": "28 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "citySec": "Murmansk",
+    "linkSec": "https://www.timeanddate.com/weather/russia/murmansk",
+    "tempSec": "18 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "citySec": "Muscat",
+    "linkSec": "https://www.timeanddate.com/weather/oman/muscat",
+    "tempSec": "30 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-36.png"
+  },
+  {
+    "citySec": "N'Djamena",
+    "linkSec": "https://www.timeanddate.com/weather/chad/ndjamena",
+    "tempSec": "32 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "citySec": "Nagoya",
+    "linkSec": "https://www.timeanddate.com/weather/japan/nagoya",
+    "tempSec": "29 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-14.png"
+  },
+  {
+    "citySec": "Nairobi",
+    "linkSec": "https://www.timeanddate.com/weather/kenya/nairobi",
+    "tempSec": "20 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "citySec": "Nashville",
+    "linkSec": "https://www.timeanddate.com/weather/usa/nashville",
+    "tempSec": "27 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "citySec": "Nassau",
+    "linkSec": "https://www.timeanddate.com/weather/bahamas/nassau",
+    "tempSec": "29 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "citySec": "New Delhi",
+    "linkSec": "https://www.timeanddate.com/weather/india/new-delhi",
+    "tempSec": "31 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-7.png"
+  },
+  {
+    "citySec": "New Orleans",
+    "linkSec": "https://www.timeanddate.com/weather/usa/new-orleans",
+    "tempSec": "27 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "citySec": "New York",
+    "linkSec": "https://www.timeanddate.com/weather/usa/new-york",
+    "tempSec": "28 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-1.png"
+  },
+  {
+    "citySec": "Newark",
+    "linkSec": "https://www.timeanddate.com/weather/usa/newark",
+    "tempSec": "29 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-1.png"
+  },
+  {
+    "citySec": "Ngerulmud",
+    "linkSec": "https://www.timeanddate.com/weather/palau/ngerulmud",
+    "tempSec": "24 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-14.png"
+  },
+  {
+    "citySec": "Niamey",
+    "linkSec": "https://www.timeanddate.com/weather/niger/niamey",
+    "tempSec": "32 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "citySec": "Nicosia",
+    "linkSec": "https://www.timeanddate.com/weather/cyprus/nicosia",
+    "tempSec": "35 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "citySec": "Norilsk",
+    "linkSec": "https://www.timeanddate.com/weather/russia/norilsk",
+    "tempSec": "13 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-7.png"
+  },
+  {
+    "citySec": "Novgorod",
+    "linkSec": "https://www.timeanddate.com/weather/russia/novgorod",
+    "tempSec": "19 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-7.png"
+  },
+  {
+    "citySec": "Novosibirsk",
+    "linkSec": "https://www.timeanddate.com/weather/russia/novosibirsk",
+    "tempSec": "18 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "citySec": "Nukualofa",
+    "linkSec": "https://www.timeanddate.com/weather/tonga/nukualofa",
+    "tempSec": "22 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-14.png"
+  },
+  {
+    "citySec": "Nuuk",
+    "linkSec": "https://www.timeanddate.com/weather/greenland/nuuk",
+    "tempSec": "7 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "citySec": "Odesa",
+    "linkSec": "https://www.timeanddate.com/weather/ukraine/odesa",
+    "tempSec": "33 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  },
+  {
+    "citySec": "Oklahoma City",
+    "linkSec": "https://www.timeanddate.com/weather/usa/oklahoma-city",
+    "tempSec": "22 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "citySec": "Omsk",
+    "linkSec": "https://www.timeanddate.com/weather/russia/omsk",
+    "tempSec": "18 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-6.png"
+  },
+  {
+    "citySec": "Oral",
+    "linkSec": "https://www.timeanddate.com/weather/kazakhstan/oral",
+    "tempSec": "30 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-1.png"
+  },
+  {
+    "citySec": "Orlando",
+    "linkSec": "https://www.timeanddate.com/weather/usa/orlando",
+    "tempSec": "27 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-1.png"
+  },
+  {
+    "citySec": "Osaka",
+    "linkSec": "https://www.timeanddate.com/weather/japan/osaka",
+    "tempSec": "30 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-14.png"
+  },
+  {
+    "citySec": "Oslo",
+    "linkSec": "https://www.timeanddate.com/weather/norway/oslo",
+    "tempSec": "17 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-7.png"
+  },
+  {
+    "citySec": "Ottawa",
+    "linkSec": "https://www.timeanddate.com/weather/canada/ottawa",
+    "tempSec": "23 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-7.png"
+  },
+  {
+    "citySec": "Palikir",
+    "linkSec": "https://www.timeanddate.com/weather/micronesia/palikir",
+    "tempSec": "24 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-14.png"
+  },
+  {
+    "citySec": "Palma",
+    "linkSec": "https://www.timeanddate.com/weather/spain/palma",
+    "tempSec": "30 °C",
+    "imgSec": "https://c.tadst.com/gfx/w//40/wt-2.png"
+  }
+]
