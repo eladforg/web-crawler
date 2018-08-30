@@ -5,9 +5,28 @@ weatherApp.controller('indexCtrl', function($scope, jsonSer){
     $scope.cities=jsonSer.citiesArray;
     var locatedCity;
     $scope.isWrong=false;
+    $scope.isExamp=false;
+    $scope.isDis=false;
 
-      
+    console.log($scope.cities)
+    // 2 cities input:
+    //first city: 
+        $scope.show = function(){
+            $scope.isExamp=true;
+            $scope.isDis=true;
+            $scope.berlin = $scope.cities.find(function(city){
+                    
+                return city.city == "Berlin";        
+            });
+            
+            $scope.chicago = $scope.cities.find(function(city){
+                    
+                return city.city == "Chicago";        
+            });
+            //console.log($scope.berlin)
+        }
        
+        
     //getting the user cityInput and publishing its details:
     $scope.showCityDetails= function(cityEntered){
         if (!cityEntered){
