@@ -37,64 +37,69 @@
         <div class="mt-3">
             <h4 class="text-center text-primary">Enter a city name to know its' weather </h4>
             <div class="text-center">
-                <button ng-click="show()" ng-disabled="isDis">for example:</button>
+                <button class="btn border-warning text-primary mt-2" ng-click="show()" ng-disabled="isDis">Click For Example</button>
             </div>
 
             <!-- city examples: -->
-            <div class="row mt-3">
+            <div class="row mt-3 justify-content-center">
 
                 <!-- example of 1st city: -->
-
-                <div class="col-md-6 text-center" ng-show="isExamp">
-                    
-                    <p>{{berlin.city}}</p>
-                    <p>Temperature: {{berlin.temp}}</p>
-                    <img ng-src="{{berlin.img}}" alt="">
-                    <p>{{berlin.humidity}}</p>
-                    <p>{{berlin.wind}}</p>
-                    <p><a ng-href="{{berlin.link}}" target="_blank">Read More...</a></p>
-
-                    
+                
+                
+                <div class="card m-3" style="width: 18rem;" ng-show="isExamp">                        
+                    <div class="card-body text-center">                            
+                        <h5 class="card-title">{{berlin.city}}</h5>                            
+                        <p class="card-text">Temperature: {{berlin.temp}}</p>                            
+                        <p>{{berlin.humidity}}</p>
+                        <p>{{berlin.wind}}</p>
+                        <img class="card-img-top w-25" ng-src="{{berlin.img}}" alt="Card image cap">
+                        <div><a ng-href="{{berlin.link}}" target="_blank" class="btn btn-primary">Read More...</a></div>
+                    </div>
                 </div>
+               
 
-                <!-- example of 2nd city: -->
- 
-                <div class="col-md-6 text-center" ng-show="isExamp">
-                    
-                    <p>{{chicago.city}}</p>
-                    <p>Temperature: {{chicago.temp}}</p>
-                    <img ng-src="{{chicago.img}}" alt="">
-                    <p>{{chicago.humidity}}</p>
-                    <p>{{chicago.wind}}</p>
-                    <p><a ng-href="{{chicago.link}}" target="_blank">Read More...</a></p>
-    
-                        
+                <!-- example of 2nd city: -->                 
+                
+                <div class="card m-3" style="width: 18rem;" ng-show="isExamp">                        
+                    <div class="card-body text-center">                            
+                        <h5 class="card-title">{{chicago.city}}</h5>                            
+                        <p class="card-text">Temperature: {{chicago.temp}}</p>                            
+                        <p>{{chicago.humidity}}</p>
+                        <p>{{chicago.wind}}</p>
+                        <img class="card-img-top w-25" ng-src="{{chicago.img}}" alt="Card image cap">
+                        <div><a ng-href="{{chicago.link}}" target="_blank" class="btn btn-primary">Read More...</a></div>
+                    </div>
                 </div>
-
+               
+                
             </div>
 
 
             <!-- user Input -->
-            <div class="mt-3">
+            <div class="mt-3 text-center">
 
-                <input class="" type="text" placeholder="Enter a city name" ng-model="cityInput">
-                <button ng-click="showCityDetails(cityInput)">Search</button>
+                <input class="w-50" type="text" placeholder="Enter a city name" ng-model="cityInput">
+                <button ng-click="showCityDetails(cityInput)" class="btn border-warning text-primary">Search</button>
                 <p></p>
             </div>
         </div>
-        <div ng-show="isCity">
-            <p>{{userCity.city}}</p>
-            <p>Temperature: {{userCity.temp}}</p>
-            <img ng-src="{{userCity.img}}" alt="">
-            <p>{{userCity.humidity}}</p>
-            <p>{{userCity.wind}}</p>
-            <p><a ng-href="{{userCity.link}}" target="_blank">Read More...</a></p>
+     
+        <!-- user city result -->
+        <div class="card text-center " ng-show="isCity">
+            <div class="card-body">
+                <h5 class="card-title">{{userCity.city}}</h5>
+                <p class="card-text">Temperature: {{userCity.temp}}</p>
+                <p class="card-text">{{userCity.humidity}}</p>
+                <p class="card-text">{{userCity.wind}}</p>
+                <img ng-src="{{userCity.img}}" alt="">
+                <p><a ng-href="{{userCity.link}}" target="_blank" class="btn btn-primary mt-2">Read More...</a></p>
+            </div>
+            
         </div>
         <div ng-show="isWrong">
-            <p>The city you entered is unknown, please try again...</p>
+            <p class="text-center">The city you entered is unknown, please try again...</p>
         </div>
-    </div>
-    <!-- <ng-view></ng-view> -->
+        <!-- <ng-view></ng-view> -->
     
     
     
