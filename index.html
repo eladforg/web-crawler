@@ -43,8 +43,8 @@
                 <!-- example of 1st city: -->
 
                 <div class="col-md-6">
-                    <p class="text-center">Tel Aviv:</p>
-                    <p class="text-center">details</p>
+                    <p class="text-center">Berlin</p>
+                    <p class="text-center"></p>
 
                     
                 </div>
@@ -52,7 +52,7 @@
                 <!-- example of 2nd city: -->
  
                 <div class="col-md-6">
-                    <p class="text-center">New York:</p>
+                    <p class="text-center">Chicago:</p>
                     <p class="text-center">details</p>
 
                     
@@ -70,12 +70,15 @@
             </div>
         </div>
         <div ng-show="isCity">
-            <p>{{locatedCity.city}}</p>
-            <p >Temperature: {{locatedCityTemp}}</p>
-            <img ng-src="{{locatedCityImage}}" alt="">
-            <p>{{locatedCityHumid}}</p>
-            <p>{{locatedCityWind}}</p>
-            <p><a ng-href="{{locatedCityLink}}" target="_blank">Read More...</a></p>
+            <p>{{userCity.city}}</p>
+            <p>Temperature: {{userCity.temp}}</p>
+            <img ng-src="{{userCity.img}}" alt="">
+            <p>{{userCity.humidity}}</p>
+            <p>{{userCity.wind}}</p>
+            <p><a ng-href="{{userCity.link}}" target="_blank">Read More...</a></p>
+        </div>
+        <div ng-show="isWrong">
+            <p>The city you entered is unknown, please try again...</p>
         </div>
     </div>
     <!-- <ng-view></ng-view> -->

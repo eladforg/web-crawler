@@ -3,537 +3,529 @@
     "city": "Abidjan",
     "link": "https://www.timeanddate.com/weather/cote-divoire/abidjan",
     "temp": "27 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
-    "wind": "Feels Like: 30 °CForecast: N/AWind: 20 km/h ↑ from Southwest",
-    "humidity": "Humidity:  84%"
+    "img": "https://c.tadst.com/gfx/w//40/wt-6.png",
+    "wind": "Feels Like: 30 °CForecast: 24 / 29 °CWind: 19 km/h ↑ from Southwest",
+    "humidity": "Humidity:  79%"
   },
   {
     "city": "Abu Dhabi",
     "link": "https://www.timeanddate.com/weather/united-arab-emirates/abu-dhabi",
-    "temp": "35 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-13.png",
-    "wind": "Feels Like: 45 °CForecast: 32 / 40 °CWind: 17 km/h ↑ from Northeast",
-    "humidity": "Humidity:  60%"
+    "temp": "40 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
+    "wind": "Feels Like: 39 °CForecast: 31 / 40 °CWind: 11 km/h ↑ from West",
+    "humidity": "Humidity:  20%"
   },
   {
     "city": "Acapulco",
     "link": "https://www.timeanddate.com/weather/mexico/acapulco",
     "temp": "29 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-6.png",
-    "humidity": "Humidity:  76%",
-    "wind": "Feels Like: 33 °CForecast: 25 / 32 °CWind: 2 km/h ↑ from East"
+    "img": "https://c.tadst.com/gfx/w//40/wt-14.png",
+    "wind": "Feels Like: 35 °CForecast: 25 / 32 °CWind: 4 km/h ↑ from West",
+    "humidity": "Humidity:  80%"
   },
   {
     "city": "Accra",
     "link": "https://www.timeanddate.com/weather/ghana/accra",
-    "temp": "29 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
-    "humidity": "Humidity:  66%",
-    "wind": "Feels Like: 32 °CForecast: N/AWind: 30 km/h ↑ from Southwest"
+    "temp": "26 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-6.png",
+    "humidity": "Humidity:  84%",
+    "wind": "Feels Like: 28 °CForecast: 25 / 28 °CWind: 19 km/h ↑ from West"
   },
   {
     "city": "Adak",
     "link": "https://www.timeanddate.com/weather/usa/adak",
-    "temp": "10 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-7.png",
-    "wind": "Feels Like: 5 °CForecast: 10 / 13 °CWind: 50 km/h ↑ from West",
-    "humidity": "Humidity:  83%"
-  },
-  {
-    "city": "Addis Ababa",
-    "link": "https://www.timeanddate.com/weather/ethiopia/addis-ababa",
-    "temp": "14 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-14.png",
-    "wind": "Feels Like: 14 °CForecast: 11 / 21 °CWind: 9 km/h ↑ from Southwest",
-    "humidity": "Humidity:  88%"
+    "temp": "11 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-17.png",
+    "wind": "Feels Like: 7 °CForecast: 10 / 12 °CWind: 44 km/h ↑ from Southwest",
+    "humidity": "Humidity:  80%"
   },
   {
     "city": "Adelaide",
     "link": "https://www.timeanddate.com/weather/australia/adelaide",
-    "temp": "22 °C",
+    "temp": "12 °C",
     "img": "https://c.tadst.com/gfx/w//40/wt-36.png",
-    "humidity": "Humidity:  16%",
-    "wind": "Feels Like: 23 °CForecast: 11 / 18 °CWind: 17 km/h ↑ from Northeast"
+    "humidity": "Humidity:  92%",
+    "wind": "Feels Like: 11 °CForecast: 11 / 16 °CWind: 11 km/h ↑ from North"
   },
   {
     "city": "Aguascalientes",
     "link": "https://www.timeanddate.com/weather/mexico/aguascalientes",
-    "temp": "20 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-6.png",
-    "humidity": "Humidity:  64%",
-    "wind": "Feels Like: 20 °CForecast: 14 / 26 °CWind: 6 km/h ↑ from Southwest"
+    "temp": "15 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-15.png",
+    "wind": "Feels Like: 15 °CForecast: 15 / 25 °CWind: 7 km/h ↑ from Northeast",
+    "humidity": "Humidity:  94%"
   },
   {
     "city": "Ahmedgarh",
     "link": "https://www.timeanddate.com/weather/india/ahmedgarh",
-    "temp": "31 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-14.png",
-    "humidity": "Humidity:  82%",
-    "wind": "Feels Like: 40 °CForecast: 26 / 34 °CWind: No wind"
+    "temp": "34 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
+    "humidity": "Humidity:  69%",
+    "wind": "Feels Like: 45 °CForecast: 27 / 34 °CWind: No wind"
   },
   {
     "city": "Albuquerque",
     "link": "https://www.timeanddate.com/weather/usa/albuquerque",
     "temp": "23 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
-    "humidity": "Humidity:  28%",
-    "wind": "Feels Like: 25 °CForecast: 17 / 33 °CWind: 15 km/h ↑ from North"
-  },
-  {
-    "city": "Alert",
-    "link": "https://www.timeanddate.com/weather/canada/alert",
-    "temp": "4 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-6.png",
-    "humidity": "Humidity:  70%",
-    "wind": "Feels Like: -3 °CForecast: -1 / 2 °CWind: 56 km/h ↑ from Southwest"
+    "img": "https://c.tadst.com/gfx/w//40/wt-14.png",
+    "humidity": "Humidity:  40%",
+    "wind": "Feels Like: 25 °CForecast: 18 / 34 °CWind: No wind"
   },
   {
     "city": "Algiers",
     "link": "https://www.timeanddate.com/weather/algeria/algiers",
     "temp": "26 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-6.png",
-    "humidity": "Humidity:  77%",
-    "wind": "Feels Like: 28 °CForecast: 23 / 29 °CWind: No wind"
+    "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
+    "humidity": "Humidity:  78%",
+    "wind": "Feels Like: 28 °CForecast: 23 / 31 °CWind: No wind"
   },
   {
     "city": "Alice Springs",
     "link": "https://www.timeanddate.com/weather/australia/alice-springs",
-    "temp": "23 °C",
+    "temp": "25 °C",
     "img": "https://c.tadst.com/gfx/w//40/wt-13.png",
-    "humidity": "Humidity:  10%",
-    "wind": "Feels Like: 23 °CForecast: 18 / 30 °CWind: 26 km/h ↑ from North"
+    "wind": "Feels Like: 26 °CForecast: 10 / 24 °CWind: 32 km/h ↑ from Northwest",
+    "humidity": "Humidity:  34%"
   },
   {
     "city": "Almaty",
     "link": "https://www.timeanddate.com/weather/kazakstan/almaty",
-    "temp": "18 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-14.png",
-    "wind": "Feels Like: 18 °CForecast: 9 / 22 °CWind: 6 km/h ↑ from South",
-    "humidity": "Humidity:  43%"
+    "temp": "21 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-6.png",
+    "wind": "Feels Like: 21 °CForecast: 8 / 23 °CWind: 6 km/h ↑ from Southwest",
+    "humidity": "Humidity:  33%"
   },
   {
     "city": "Alofi",
     "link": "https://www.timeanddate.com/weather/niue/alofi",
-    "temp": "21 °C",
+    "temp": "23 °C",
     "img": "https://c.tadst.com/gfx/w//40/wt-36.png",
-    "humidity": "Humidity:  73%",
-    "wind": "Feels Like: 21 °CForecast: 20 / 25 °CWind: 15 km/h ↑ from East"
+    "humidity": "Humidity:  78%",
+    "wind": "Feels Like: 23 °CForecast: 22 / 27 °CWind: 15 km/h ↑ from East"
   },
   {
     "city": "Amman",
     "link": "https://www.timeanddate.com/weather/jordan/amman",
-    "temp": "32 °C",
+    "temp": "35 °C",
     "img": "https://c.tadst.com/gfx/w//40/wt-3.png",
-    "humidity": "Humidity:  31%",
-    "wind": "Feels Like: 31 °CForecast: 20 / 34 °CWind: 15 km/h ↑ from Northwest"
+    "humidity": "Humidity:  30%",
+    "wind": "Feels Like: 35 °CForecast: 21 / 34 °CWind: 9 km/h ↑ from North"
   },
   {
     "city": "Amsterdam",
     "link": "https://www.timeanddate.com/weather/netherlands/amsterdam",
-    "temp": "15 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-19.png",
-    "wind": "Feels Like: 15 °CForecast: 12 / 18 °CWind: 9 km/h ↑ from North",
-    "humidity": "Humidity:  94%"
+    "temp": "18 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
+    "wind": "Feels Like: 18 °CForecast: 9 / 20 °CWind: 24 km/h ↑ from Northwest",
+    "humidity": "Humidity:  60%"
   },
   {
     "city": "Amsterdam Island",
     "link": "https://www.timeanddate.com/weather/france/martin-de-vivies-amsterdam-island",
-    "temp": "11 °C",
+    "temp": "13 °C",
     "img": "https://c.tadst.com/gfx/w//40/wt-36.png",
-    "wind": "Feels Like: 9 °CForecast: 12 / 13 °CWind: 11 km/h ↑ from Northwest",
-    "humidity": "Humidity:  92%"
+    "wind": "Feels Like: 11 °CForecast: 12 / 14 °CWind: 22 km/h ↑ from Northwest",
+    "humidity": "Humidity:  77%"
   },
   {
     "city": "Anadyr",
     "link": "https://www.timeanddate.com/weather/russia/anadyr",
-    "temp": "5 °C",
+    "temp": "9 °C",
     "img": "https://c.tadst.com/gfx/w//40/wt-14.png",
-    "wind": "Feels Like: 3 °CForecast: 5 / 12 °CWind: 7 km/h ↑ from Northeast",
-    "humidity": "Humidity:  92%"
+    "humidity": "Humidity:  72%",
+    "wind": "Feels Like: 9 °CForecast: 5 / 12 °CWind: 6 km/h ↑ from Northeast"
   },
   {
     "city": "Anchorage",
     "link": "https://www.timeanddate.com/weather/usa/anchorage",
-    "temp": "8 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-1.png",
-    "wind": "Feels Like: 8 °CForecast: 8 / 17 °CWind: No wind",
-    "humidity": "Humidity:  93%"
+    "temp": "13 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-34.png",
+    "wind": "Feels Like: 12 °CForecast: 12 / 17 °CWind: 13 km/h ↑ from Southwest",
+    "humidity": "Humidity:  75%"
   },
   {
     "city": "Ankara",
     "link": "https://www.timeanddate.com/weather/turkey/ankara",
     "temp": "29 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-22.png",
-    "humidity": "Humidity:  40%",
-    "wind": "Feels Like: 29 °CForecast: 18 / 30 °CWind: 32 km/h ↑ from Northeast"
+    "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
+    "wind": "Feels Like: 29 °CForecast: 18 / 32 °CWind: 6 km/h ↑ from Northwest",
+    "humidity": "Humidity:  40%"
   },
   {
     "city": "Antananarivo",
     "link": "https://www.timeanddate.com/weather/madagascar/antananarivo",
-    "temp": "16 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-14.png",
-    "wind": "Feels Like: 16 °CForecast: 11 / 22 °CWind: 24 km/h ↑ from Southeast",
-    "humidity": "Humidity:  72%"
+    "temp": "22 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-6.png",
+    "humidity": "Humidity:  44%",
+    "wind": "Feels Like: 25 °CForecast: 10 / 20 °CWind: 20 km/h ↑ from Southeast"
   },
   {
     "city": "Apia",
     "link": "https://www.timeanddate.com/weather/samoa/apia",
     "temp": "23 °C",
     "img": "https://c.tadst.com/gfx/w//40/wt-14.png",
-    "humidity": "Humidity:  89%",
-    "wind": "Feels Like: 22 °CForecast: 25 / 28 °CWind: 11 km/h ↑ from Southeast"
+    "wind": "Feels Like: 20 °CForecast: 25 / 30 °CWind: 6 km/h ↑ from South",
+    "humidity": "Humidity:  100%"
   },
   {
     "city": "Aqtobe",
     "link": "https://www.timeanddate.com/weather/kazakstan/aqtobe",
-    "temp": "20 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-13.png",
-    "humidity": "Humidity:  35%",
-    "wind": "Feels Like: 20 °CForecast: 10 / 28 °CWind: 6 km/h ↑ from Northwest"
+    "temp": "28 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-1.png",
+    "humidity": "Humidity:  21%",
+    "wind": "Feels Like: 27 °CForecast: 13 / 25 °CWind: 6 km/h ↑ from Northwest"
   },
   {
     "city": "Ashgabat",
     "link": "https://www.timeanddate.com/weather/turkmenistan/ashgabat",
-    "temp": "29 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-13.png",
-    "humidity": "Humidity:  23%",
-    "wind": "Feels Like: 28 °CForecast: 19 / 32 °CWind: 15 km/h ↑ from East"
+    "temp": "33 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-1.png",
+    "humidity": "Humidity:  15%",
+    "wind": "Feels Like: 31 °CForecast: 17 / 31 °CWind: 15 km/h ↑ from East"
+  },
+  {
+    "city": "Asmara",
+    "link": "https://www.timeanddate.com/weather/eritrea/asmara",
+    "temp": "N/A",
+    "img": "https://c.tadst.com/gfx/w//40/wt-7.png",
+    "wind": "Feels Like: N/AForecast: 14 / 24 °CWind: 59 km/h ↑ from North",
+    "humidity": "Humidity:  N/A"
   },
   {
     "city": "Astana",
     "link": "https://www.timeanddate.com/weather/kazakstan/astana",
-    "temp": "13 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-15.png",
-    "humidity": "Humidity:  82%",
-    "wind": "Feels Like: 13 °CForecast: 8 / 19 °CWind: 6 km/h ↑ from Northwest"
+    "temp": "20 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
+    "wind": "Feels Like: 20 °CForecast: 8 / 13 °CWind: 13 km/h ↑ from North",
+    "humidity": "Humidity:  43%"
   },
   {
     "city": "Asuncion",
     "link": "https://www.timeanddate.com/weather/paraguay/asuncion",
-    "temp": "34 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
-    "wind": "Feels Like: 34 °CForecast: 21 / 36 °CWind: 33 km/h ↑ from Northeast",
-    "humidity": "Humidity:  34%"
+    "temp": "25 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-1.png",
+    "humidity": "Humidity:  44%",
+    "wind": "Feels Like: 26 °CForecast: 21 / 36 °CWind: 22 km/h ↑ from Northeast"
   },
   {
     "city": "Athens",
     "link": "https://www.timeanddate.com/weather/greece/athens",
     "temp": "31 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-36.png",
-    "wind": "Feels Like: 30 °CForecast: 24 / 32 °CWind: 13 km/h ↑ from North",
-    "humidity": "Humidity:  33%"
+    "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
+    "humidity": "Humidity:  31%",
+    "wind": "Feels Like: 29 °CForecast: 24 / 33 °CWind: 19 km/h ↑ from North"
   },
   {
     "city": "Atlanta",
     "link": "https://www.timeanddate.com/weather/usa/atlanta",
-    "temp": "30 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-1.png",
-    "wind": "Feels Like: 33 °CForecast: 22 / 31 °CWind: 7 km/h ↑ from North",
-    "humidity": "Humidity:  63%"
+    "temp": "20 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-13.png",
+    "wind": "Feels Like: 20 °CForecast: 22 / 31 °CWind: No wind",
+    "humidity": "Humidity:  100%"
   },
   {
     "city": "Auckland",
     "link": "https://www.timeanddate.com/weather/new-zealand/auckland",
     "temp": "10 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-9.png",
-    "wind": "Feels Like: 10 °CForecast: 10 / 16 °CWind: 2 km/h ↑ from South",
+    "img": "https://c.tadst.com/gfx/w//40/wt-36.png",
+    "wind": "Feels Like: 10 °CForecast: 10 / 16 °CWind: 6 km/h ↑ from Northwest",
     "humidity": "Humidity:  94%"
   },
   {
     "city": "Augusta",
     "link": "https://www.timeanddate.com/weather/usa/augusta",
-    "temp": "31 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
-    "humidity": "Humidity:  55%",
-    "wind": "Feels Like: 33 °CForecast: 22 / 30 °CWind: 9 km/h ↑ from North"
+    "temp": "22 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-9.png",
+    "humidity": "Humidity:  96%",
+    "wind": "Feels Like: 19 °CForecast: 16 / 25 °CWind: No wind"
   },
   {
     "city": "Austin",
     "link": "https://www.timeanddate.com/weather/usa/austin",
-    "temp": "33 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
-    "humidity": "Humidity:  50%",
-    "wind": "Feels Like: 36 °CForecast: 26 / 36 °CWind: 9 km/h ↑ from North"
+    "temp": "25 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-14.png",
+    "humidity": "Humidity:  85%",
+    "wind": "Feels Like: 26 °CForecast: 25 / 37 °CWind: No wind"
   },
   {
     "city": "Baghdad",
     "link": "https://www.timeanddate.com/weather/iraq/baghdad",
-    "temp": "41 °C",
+    "temp": "42 °C",
     "img": "https://c.tadst.com/gfx/w//40/wt-1.png",
-    "humidity": "Humidity:  16%",
-    "wind": "Feels Like: 39 °CForecast: 30 / 46 °CWind: 11 km/h ↑ from Northwest"
+    "humidity": "Humidity:  9%",
+    "wind": "Feels Like: 39 °CForecast: 32 / 48 °CWind: 11 km/h ↑ from Northwest"
   },
   {
     "city": "Baker Lake",
     "link": "https://www.timeanddate.com/weather/canada/baker-lake",
-    "temp": "10 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-7.png",
-    "wind": "Feels Like: 7 °CForecast: 6 / 11 °CWind: 19 km/h ↑ from Southwest",
-    "humidity": "Humidity:  88%"
+    "temp": "7 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-17.png",
+    "humidity": "Humidity:  90%",
+    "wind": "Feels Like: 4 °CForecast: 6 / 11 °CWind: 19 km/h ↑ from Northwest"
   },
   {
     "city": "Baku",
     "link": "https://www.timeanddate.com/weather/azerbaijan/baku",
-    "temp": "25 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-13.png",
-    "humidity": "Humidity:  54%",
-    "wind": "Feels Like: 26 °CForecast: 23 / 30 °CWind: No wind"
+    "temp": "31 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
+    "wind": "Feels Like: 31 °CForecast: 22 / 30 °CWind: 28 km/h ↑ from Southeast",
+    "humidity": "Humidity:  38%"
   },
   {
     "city": "Balikpapan",
     "link": "https://www.timeanddate.com/weather/indonesia/balikpapan",
-    "temp": "25 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-14.png",
-    "wind": "Feels Like: 25 °CForecast: 24 / 30 °CWind: 4 km/h ↑ from Northwest",
-    "humidity": "Humidity:  94%"
+    "temp": "28 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-7.png",
+    "wind": "Feels Like: 31 °CForecast: 25 / 30 °CWind: 9 km/h ↑ from South",
+    "humidity": "Humidity:  80%"
   },
   {
     "city": "Baltimore",
     "link": "https://www.timeanddate.com/weather/usa/baltimore",
-    "temp": "34 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
-    "humidity": "Humidity:  54%",
-    "wind": "Feels Like: 39 °CForecast: 25 / 34 °CWind: 17 km/h ↑ from Northwest"
+    "temp": "24 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-6.png",
+    "wind": "Feels Like: 25 °CForecast: 23 / 32 °CWind: 9 km/h ↑ from Northwest",
+    "humidity": "Humidity:  82%"
   },
   {
     "city": "Bamako",
     "link": "https://www.timeanddate.com/weather/mali/bamako",
-    "temp": "30 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
-    "humidity": "Humidity:  62%",
-    "wind": "Feels Like: 33 °CForecast: N/AWind: 7 km/h ↑ from North"
+    "temp": "27 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-6.png",
+    "humidity": "Humidity:  74%",
+    "wind": "Feels Like: 29 °CForecast: 23 / 31 °CWind: 17 km/h ↑ from Southwest"
   },
   {
     "city": "Bandar Seri Begawan",
     "link": "https://www.timeanddate.com/weather/brunei/bandar-seri-begawan",
-    "temp": "25 °C",
+    "temp": "31 °C",
     "img": "https://c.tadst.com/gfx/w//40/wt-14.png",
-    "wind": "Feels Like: 26 °CForecast: 26 / 33 °CWind: 6 km/h ↑ from Southwest",
-    "humidity": "Humidity:  89%"
+    "wind": "Feels Like: 37 °CForecast: 25 / 34 °CWind: 9 km/h ↑ from North",
+    "humidity": "Humidity:  66%"
   },
   {
     "city": "Bandung",
     "link": "https://www.timeanddate.com/weather/indonesia/bandung",
-    "temp": "22 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-14.png",
-    "wind": "Feels Like: 21 °CForecast: 18 / 29 °CWind: No wind",
-    "humidity": "Humidity:  90%"
+    "temp": "25 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-6.png",
+    "wind": "Feels Like: 25 °CForecast: 19 / 29 °CWind: 6 km/h ↑ from Southeast",
+    "humidity": "Humidity:  87%"
   },
   {
     "city": "Bangalore",
     "link": "https://www.timeanddate.com/weather/india/bangalore",
-    "temp": "22 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-14.png",
-    "humidity": "Humidity:  94%",
-    "wind": "Feels Like: 20 °CForecast: 20 / 27 °CWind: 9 km/h ↑ from Southwest"
+    "temp": "28 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
+    "wind": "Feels Like: 29 °CForecast: 20 / 26 °CWind: 9 km/h ↑ from Northwest",
+    "humidity": "Humidity:  58%"
   },
   {
     "city": "Bangkok",
     "link": "https://www.timeanddate.com/weather/thailand/bangkok",
-    "temp": "28 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-34.png",
-    "wind": "Feels Like: 32 °CForecast: 27 / 31 °CWind: 4 km/h ↑ from Northwest",
-    "humidity": "Humidity:  81%"
+    "temp": "32 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-7.png",
+    "wind": "Feels Like: 37 °CForecast: 26 / 30 °CWind: 6 km/h ↑ from West",
+    "humidity": "Humidity:  63%"
   },
   {
     "city": "Bangui",
     "link": "https://www.timeanddate.com/weather/central-african-republic/bangui",
-    "temp": "30 °C",
+    "temp": "28 °C",
     "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
-    "wind": "Feels Like: 33 °CForecast: 21 / 32 °CWind: No wind",
-    "humidity": "Humidity:  62%"
+    "wind": "Feels Like: 30 °CForecast: 22 / 27 °CWind: 7 km/h ↑ from Southwest",
+    "humidity": "Humidity:  66%"
   },
   {
     "city": "Banjul",
     "link": "https://www.timeanddate.com/weather/gambia/banjul",
-    "temp": "30 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-22.png",
-    "humidity": "Humidity:  75%",
-    "wind": "Feels Like: 36 °CForecast: N/AWind: 13 km/h ↑ from Southwest"
+    "temp": "25 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-6.png",
+    "wind": "Feels Like: 26 °CForecast: 24 / 27 °CWind: 13 km/h ↑ from North",
+    "humidity": "Humidity:  94%"
   },
   {
     "city": "Barcelona",
     "link": "https://www.timeanddate.com/weather/spain/barcelona",
-    "temp": "27 °C",
+    "temp": "28 °C",
     "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
-    "humidity": "Humidity:  74%",
-    "wind": "Feels Like: 29 °CForecast: 21 / 27 °CWind: 20 km/h ↑ from Southeast"
+    "wind": "Feels Like: 30 °CForecast: 22 / 26 °CWind: 22 km/h ↑ from Southwest",
+    "humidity": "Humidity:  66%"
   },
   {
     "city": "Basse-Terre (Guadeloupe)",
     "link": "https://www.timeanddate.com/weather/guadeloupe/basse-terre",
-    "temp": "29 °C",
+    "temp": "27 °C",
     "img": "https://c.tadst.com/gfx/w//40/wt-6.png",
-    "wind": "Feels Like: 35 °CForecast: 25 / 28 °CWind: 17 km/h ↑ from Southeast",
-    "humidity": "Humidity:  79%"
+    "humidity": "Humidity:  84%",
+    "wind": "Feels Like: 30 °CForecast: 26 / 28 °CWind: 13 km/h ↑ from East"
   },
   {
     "city": "Basseterre (St. Kitts)",
     "link": "https://www.timeanddate.com/weather/saint-kitts-and-nevis/basseterre",
     "temp": "27 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-18.png",
-    "wind": "Feels Like: 30 °CForecast: 27 / 29 °CWind: 26 km/h ↑ from East",
-    "humidity": "Humidity:  84%"
+    "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
+    "humidity": "Humidity:  84%",
+    "wind": "Feels Like: 30 °CForecast: 27 / 28 °CWind: 19 km/h ↑ from East"
   },
   {
     "city": "Beijing",
     "link": "https://www.timeanddate.com/weather/china/beijing",
-    "temp": "28 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-13.png",
-    "wind": "Feels Like: 28 °CForecast: 21 / 27 °CWind: 2 km/h ↑ from Southeast",
-    "humidity": "Humidity:  49%"
+    "temp": "24 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-7.png",
+    "wind": "Feels Like: 25 °CForecast: 19 / 30 °CWind: 6 km/h ↑ from West",
+    "humidity": "Humidity:  67%"
   },
   {
     "city": "Beirut",
     "link": "https://www.timeanddate.com/weather/lebanon/beirut",
     "temp": "29 °C",
     "img": "https://c.tadst.com/gfx/w//40/wt-6.png",
-    "wind": "Feels Like: 32 °CForecast: 25 / 31 °CWind: 15 km/h ↑ from Northeast",
+    "wind": "Feels Like: 32 °CForecast: 27 / 31 °CWind: 13 km/h ↑ from Northwest",
     "humidity": "Humidity:  66%"
   },
   {
     "city": "Belém",
     "link": "https://www.timeanddate.com/weather/brazil/belem",
-    "temp": "30 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
-    "humidity": "Humidity:  75%",
-    "wind": "Feels Like: 36 °CForecast: 22 / 31 °CWind: 15 km/h ↑ from North"
+    "temp": "26 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-1.png",
+    "wind": "Feels Like: 28 °CForecast: 23 / 32 °CWind: 11 km/h ↑ from Northeast",
+    "humidity": "Humidity:  84%"
   },
   {
     "city": "Belfast",
     "link": "https://www.timeanddate.com/weather/uk/belfast",
     "temp": "16 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
-    "wind": "Feels Like: 16 °CForecast: 8 / 16 °CWind: 15 km/h ↑ from Northwest",
+    "img": "https://c.tadst.com/gfx/w//40/wt-36.png",
+    "wind": "Feels Like: 16 °CForecast: 10 / 17 °CWind: 9 km/h ↑ from South",
     "humidity": "Humidity:  59%"
   },
   {
     "city": "Belgrade",
     "link": "https://www.timeanddate.com/weather/serbia/belgrade",
-    "temp": "28 °C",
+    "temp": "27 °C",
     "img": "https://c.tadst.com/gfx/w//40/wt-1.png",
-    "humidity": "Humidity:  41%",
-    "wind": "Feels Like: 28 °CForecast: 15 / 31 °CWind: 2 km/h ↑ from North"
+    "wind": "Feels Like: 27 °CForecast: 19 / 31 °CWind: 4 km/h ↑ from Southeast",
+    "humidity": "Humidity:  45%"
   },
   {
     "city": "Belmopan",
     "link": "https://www.timeanddate.com/weather/belize/belmopan",
-    "temp": "30 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-6.png",
-    "wind": "Feels Like: 37 °CForecast: 24 / 32 °CWind: 13 km/h ↑ from East",
-    "humidity": "Humidity:  78%"
+    "temp": "26 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-14.png",
+    "wind": "Feels Like: 29 °CForecast: 23 / 34 °CWind: No wind",
+    "humidity": "Humidity:  85%"
   },
   {
     "city": "Belushya Guba",
     "link": "https://www.timeanddate.com/weather/russia/belushya-guba",
-    "temp": "6 °C",
+    "temp": "8 °C",
     "img": "https://c.tadst.com/gfx/w//40/wt-7.png",
-    "humidity": "Humidity:  91%",
-    "wind": "Feels Like: 5 °CForecast: 5 / 11 °CWind: 7 km/h ↑ from North"
+    "humidity": "Humidity:  82%",
+    "wind": "Feels Like: 6 °CForecast: 9 / 12 °CWind: 17 km/h ↑ from Southwest"
   },
   {
     "city": "Berlin",
     "link": "https://www.timeanddate.com/weather/germany/berlin",
-    "temp": "26 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
-    "wind": "Feels Like: 26 °CForecast: 15 / 20 °CWind: 13 km/h ↑ from Southeast",
-    "humidity": "Humidity:  32%"
+    "temp": "18 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-18.png",
+    "humidity": "Humidity:  88%",
+    "wind": "Feels Like: 18 °CForecast: 10 / 20 °CWind: 19 km/h ↑ from West"
   },
   {
     "city": "Bern",
     "link": "https://www.timeanddate.com/weather/switzerland/bern",
-    "temp": "21 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-36.png",
-    "humidity": "Humidity:  73%",
-    "wind": "Feels Like: 21 °CForecast: 13 / 20 °CWind: 17 km/h ↑ from South"
+    "temp": "17 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-6.png",
+    "humidity": "Humidity:  77%",
+    "wind": "Feels Like: 17 °CForecast: 11 / 20 °CWind: 4 km/h ↑ from North"
   },
   {
     "city": "Bhubaneshwar",
     "link": "https://www.timeanddate.com/weather/india/bhubaneshwar",
-    "temp": "28 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-14.png",
-    "wind": "Feels Like: 33 °CForecast: 26 / 31 °CWind: 7 km/h ↑ from Southwest",
-    "humidity": "Humidity:  87%"
+    "temp": "32 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-7.png",
+    "humidity": "Humidity:  78%",
+    "wind": "Feels Like: 43 °CForecast: 26 / 33 °CWind: 7 km/h ↑ from Southwest"
   },
   {
     "city": "Billings",
     "link": "https://www.timeanddate.com/weather/usa/billings",
-    "temp": "16 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
-    "wind": "Feels Like: 16 °CForecast: 10 / 28 °CWind: 15 km/h ↑ from Southwest",
-    "humidity": "Humidity:  45%"
+    "temp": "18 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-13.png",
+    "humidity": "Humidity:  29%",
+    "wind": "Feels Like: 18 °CForecast: 12 / 28 °CWind: 19 km/h ↑ from West"
   },
   {
     "city": "Bishkek",
     "link": "https://www.timeanddate.com/weather/kyrgyzstan/bishkek",
-    "temp": "22 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-17.png",
-    "wind": "Feels Like: 25 °CForecast: 11 / 22 °CWind: No wind",
-    "humidity": "Humidity:  33%"
+    "temp": "21 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-7.png",
+    "humidity": "Humidity:  35%",
+    "wind": "Feels Like: 21 °CForecast: 9 / 25 °CWind: 4 km/h ↑ from Northwest"
   },
   {
     "city": "Bismarck",
     "link": "https://www.timeanddate.com/weather/usa/bismarck",
-    "temp": "16 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-1.png",
-    "wind": "Feels Like: 16 °CForecast: 7 / 24 °CWind: 7 km/h ↑ from Southeast",
-    "humidity": "Humidity:  57%"
+    "temp": "14 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-13.png",
+    "humidity": "Humidity:  87%",
+    "wind": "Feels Like: 13 °CForecast: 12 / 30 °CWind: 9 km/h ↑ from East"
   },
   {
     "city": "Bissau",
     "link": "https://www.timeanddate.com/weather/guinea-bissau/bissau",
-    "temp": "29 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-6.png",
-    "wind": "Feels Like: 34 °CForecast: N/AWind: 22 km/h ↑ from West",
-    "humidity": "Humidity:  79%"
+    "temp": "24 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-19.png",
+    "humidity": "Humidity:  94%",
+    "wind": "Feels Like: 23 °CForecast: 23 / 26 °CWind: 9 km/h ↑ from Southwest"
   },
   {
     "city": "Blanc-Sablon",
     "link": "https://www.timeanddate.com/weather/canada/blanc-sablon",
-    "temp": "16 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-6.png",
-    "wind": "Feels Like: 16 °CForecast: 11 / 17 °CWind: 28 km/h ↑ from Northwest",
-    "humidity": "Humidity:  63%"
+    "temp": "12 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-7.png",
+    "wind": "Feels Like: 11 °CForecast: 10 / 14 °CWind: 15 km/h ↑ from East",
+    "humidity": "Humidity:  94%"
   },
   {
     "city": "Bogota",
     "link": "https://www.timeanddate.com/weather/colombia/bogota",
-    "temp": "15 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-18.png",
-    "humidity": "Humidity:  72%",
-    "wind": "Feels Like: 15 °CForecast: 9 / 16 °CWind: 9 km/h ↑ from Southwest"
+    "temp": "9 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-9.png",
+    "wind": "Feels Like: 9 °CForecast: 8 / 17 °CWind: 4 km/h ↑ from North",
+    "humidity": "Humidity:  94%"
   },
   {
     "city": "Boise",
     "link": "https://www.timeanddate.com/weather/usa/boise",
     "temp": "19 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-1.png",
-    "humidity": "Humidity:  37%",
-    "wind": "Feels Like: 19 °CForecast: 10 / 30 °CWind: 19 km/h ↑ from Southeast"
+    "img": "https://c.tadst.com/gfx/w//40/wt-13.png",
+    "wind": "Feels Like: 19 °CForecast: 13 / 29 °CWind: 13 km/h ↑ from Southwest",
+    "humidity": "Humidity:  27%"
   },
   {
     "city": "Boston",
     "link": "https://www.timeanddate.com/weather/usa/boston",
-    "temp": "34 °C",
+    "temp": "27 °C",
     "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
-    "humidity": "Humidity:  49%",
-    "wind": "Feels Like: 39 °CForecast: 26 / 34 °CWind: 20 km/h ↑ from West"
+    "wind": "Feels Like: 30 °CForecast: 22 / 28 °CWind: 9 km/h ↑ from West",
+    "humidity": "Humidity:  74%"
   },
   {
     "city": "Brasilia",
     "link": "https://www.timeanddate.com/weather/brazil/brasilia",
-    "temp": "26 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-6.png",
-    "humidity": "Humidity:  28%",
-    "wind": "Feels Like: 26 °CForecast: 15 / 26 °CWind: 22 km/h ↑ from East"
+    "temp": "18 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-1.png",
+    "humidity": "Humidity:  52%",
+    "wind": "Feels Like: 18 °CForecast: 14 / 27 °CWind: 17 km/h ↑ from Northeast"
   },
   {
     "city": "Bratislava",
     "link": "https://www.timeanddate.com/weather/slovakia/bratislava",
-    "temp": "27 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-1.png",
-    "humidity": "Humidity:  37%",
-    "wind": "Feels Like: 26 °CForecast: 14 / 25 °CWind: 17 km/h ↑ from Southeast"
+    "temp": "26 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-6.png",
+    "humidity": "Humidity:  51%",
+    "wind": "Feels Like: 27 °CForecast: 17 / 26 °CWind: 13 km/h ↑ from Northwest"
   },
   {
     "city": "Brazzaville",
@@ -541,622 +533,630 @@
     "temp": "27 °C",
     "img": "https://c.tadst.com/gfx/w//40/wt-6.png",
     "humidity": "Humidity:  62%",
-    "wind": "Feels Like: 27 °CForecast: 22 / 31 °CWind: 11 km/h ↑ from Southwest"
+    "wind": "Feels Like: 28 °CForecast: 22 / 30 °CWind: 15 km/h ↑ from Southwest"
   },
   {
     "city": "Bridgetown",
     "link": "https://www.timeanddate.com/weather/barbados/bridgetown",
-    "temp": "30 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-33.png",
-    "humidity": "Humidity:  75%",
-    "wind": "Feels Like: 36 °CForecast: 28 / 30 °CWind: 24 km/h ↑ from East"
+    "temp": "28 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
+    "wind": "Feels Like: 33 °CForecast: 28 / 29 °CWind: 26 km/h ↑ from East",
+    "humidity": "Humidity:  84%"
   },
   {
     "city": "Brisbane",
     "link": "https://www.timeanddate.com/weather/australia/brisbane",
-    "temp": "7 °C",
+    "temp": "16 °C",
     "img": "https://c.tadst.com/gfx/w//40/wt-13.png",
-    "humidity": "Humidity:  71%",
-    "wind": "Feels Like: 11 °CForecast: 8 / 22 °CWind: 13 km/h ↑ from Southwest"
+    "humidity": "Humidity:  83%",
+    "wind": "Feels Like: 16 °CForecast: 10 / 25 °CWind: No wind"
   },
   {
     "city": "Brussels",
     "link": "https://www.timeanddate.com/weather/belgium/brussels",
     "temp": "18 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-9.png",
-    "humidity": "Humidity:  88%",
-    "wind": "Feels Like: 17 °CForecast: 13 / 19 °CWind: 22 km/h ↑ from Northwest"
+    "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
+    "humidity": "Humidity:  60%",
+    "wind": "Feels Like: 18 °CForecast: 12 / 20 °CWind: 15 km/h ↑ from Northwest"
   },
   {
     "city": "Bucharest",
     "link": "https://www.timeanddate.com/weather/romania/bucharest",
-    "temp": "26 °C",
+    "temp": "28 °C",
     "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
-    "humidity": "Humidity:  48%",
-    "wind": "Feels Like: 26 °CForecast: 18 / 29 °CWind: 15 km/h ↑ from Northeast"
+    "humidity": "Humidity:  32%",
+    "wind": "Feels Like: 27 °CForecast: 18 / 32 °CWind: 9 km/h ↑ from Northeast"
   },
   {
     "city": "Budapest",
     "link": "https://www.timeanddate.com/weather/hungary/budapest",
-    "temp": "25 °C",
+    "temp": "27 °C",
     "img": "https://c.tadst.com/gfx/w//40/wt-1.png",
-    "wind": "Feels Like: 26 °CForecast: 14 / 30 °CWind: 7 km/h ↑ from Southeast",
-    "humidity": "Humidity:  51%"
+    "humidity": "Humidity:  39%",
+    "wind": "Feels Like: 27 °CForecast: 17 / 29 °CWind: 6 km/h ↑ from North"
   },
   {
     "city": "Buenos Aires",
     "link": "https://www.timeanddate.com/weather/argentina/buenos-aires",
-    "temp": "19 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-1.png",
-    "humidity": "Humidity:  68%",
-    "wind": "Feels Like: 19 °CForecast: 12 / 21 °CWind: 9 km/h ↑ from Southeast"
+    "temp": "14 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
+    "humidity": "Humidity:  88%",
+    "wind": "Feels Like: 13 °CForecast: 10 / 16 °CWind: 19 km/h ↑ from Southeast"
   },
   {
     "city": "Cairns",
     "link": "https://www.timeanddate.com/weather/australia/cairns",
-    "temp": "19 °C",
+    "temp": "21 °C",
     "img": "https://c.tadst.com/gfx/w//40/wt-14.png",
-    "wind": "Feels Like: 19 °CForecast: 19 / 28 °CWind: 6 km/h ↑ from Southeast",
-    "humidity": "Humidity:  78%"
+    "wind": "Feels Like: 21 °CForecast: 18 / 28 °CWind: 9 km/h ↑ from Southeast",
+    "humidity": "Humidity:  64%"
   },
   {
     "city": "Cairo",
     "link": "https://www.timeanddate.com/weather/egypt/cairo",
-    "temp": "32 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-13.png",
-    "wind": "Feels Like: 33 °CForecast: 25 / 36 °CWind: 17 km/h ↑ from Northwest",
-    "humidity": "Humidity:  43%"
+    "temp": "33 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
+    "wind": "Feels Like: 35 °CForecast: 25 / 37 °CWind: 13 km/h ↑ from Northeast",
+    "humidity": "Humidity:  44%"
   },
   {
     "city": "Calgary",
     "link": "https://www.timeanddate.com/weather/canada/calgary",
-    "temp": "16 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-6.png",
-    "humidity": "Humidity:  48%",
-    "wind": "Feels Like: 16 °CForecast: 8 / 22 °CWind: 9 km/h ↑ from Southwest"
+    "temp": "10 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-15.png",
+    "wind": "Feels Like: 9 °CForecast: 8 / 19 °CWind: 7 km/h ↑ from Northwest",
+    "humidity": "Humidity:  88%"
   },
   {
     "city": "Canberra",
     "link": "https://www.timeanddate.com/weather/australia/canberra",
-    "temp": "-5 °C",
+    "temp": "8 °C",
     "img": "https://c.tadst.com/gfx/w//40/wt-13.png",
-    "wind": "Feels Like: -8 °CForecast: -5 / 14 °CWind: 6 km/h ↑ from North",
-    "humidity": "Humidity:  86%"
+    "wind": "Feels Like: 6 °CForecast: 1 / 12 °CWind: 9 km/h ↑ from Southeast",
+    "humidity": "Humidity:  46%"
   },
   {
     "city": "Cancún",
     "link": "https://www.timeanddate.com/weather/mexico/cancun",
-    "temp": "32 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
-    "wind": "Feels Like: 38 °CForecast: 26 / 30 °CWind: 11 km/h ↑ from Southeast",
-    "humidity": "Humidity:  66%"
+    "temp": "24 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-14.png",
+    "humidity": "Humidity:  100%",
+    "wind": "Feels Like: 23 °CForecast: 26 / 31 °CWind: No wind"
   },
   {
     "city": "Cape Town",
     "link": "https://www.timeanddate.com/weather/south-africa/cape-town",
-    "temp": "14 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-1.png",
-    "wind": "Feels Like: 12 °CForecast: 12 / 19 °CWind: 30 km/h ↑ from Southwest",
-    "humidity": "Humidity:  88%"
+    "temp": "21 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
+    "humidity": "Humidity:  53%",
+    "wind": "Feels Like: 21 °CForecast: 11 / 16 °CWind: 7 km/h ↑ from Southwest"
   },
   {
     "city": "Caracas",
     "link": "https://www.timeanddate.com/weather/venezuela/caracas",
-    "temp": "29 °C",
+    "temp": "27 °C",
     "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
-    "wind": "Feels Like: 33 °CForecast: 19 / 29 °CWind: 6 km/h ↑ from East",
-    "humidity": "Humidity:  70%"
+    "humidity": "Humidity:  74%",
+    "wind": "Feels Like: 29 °CForecast: 18 / 27 °CWind: No wind"
   },
   {
     "city": "Cardiff",
     "link": "https://www.timeanddate.com/weather/uk/cardiff",
-    "temp": "18 °C",
+    "temp": "17 °C",
     "img": "https://c.tadst.com/gfx/w//40/wt-36.png",
-    "humidity": "Humidity:  60%",
-    "wind": "Feels Like: 18 °CForecast: 8 / 18 °CWind: 24 km/h ↑ from Northwest"
+    "wind": "Feels Like: 17 °CForecast: 9 / 20 °CWind: 15 km/h ↑ from Southeast",
+    "humidity": "Humidity:  59%"
   },
   {
     "city": "Casablanca",
     "link": "https://www.timeanddate.com/weather/morocco/casablanca",
     "temp": "25 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
-    "humidity": "Humidity:  61%",
-    "wind": "Feels Like: 26 °CForecast: 20 / 26 °CWind: 22 km/h ↑ from Northeast"
+    "img": "https://c.tadst.com/gfx/w//40/wt-1.png",
+    "wind": "Feels Like: 26 °CForecast: 22 / 28 °CWind: 17 km/h ↑ from North",
+    "humidity": "Humidity:  61%"
   },
   {
     "city": "Castries",
     "link": "https://www.timeanddate.com/weather/saint-lucia/castries",
-    "temp": "30 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-33.png",
-    "wind": "Feels Like: 35 °CForecast: 27 / 29 °CWind: 17 km/h ↑ from East",
-    "humidity": "Humidity:  70%"
+    "temp": "27 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-18.png",
+    "wind": "Feels Like: 31 °CForecast: 27 / 30 °CWind: 6 km/h ↑ from East",
+    "humidity": "Humidity:  89%"
   },
   {
     "city": "Cayenne",
     "link": "https://www.timeanddate.com/weather/france/cayenne",
-    "temp": "32 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-6.png",
-    "wind": "Feels Like: 38 °CForecast: 24 / 31 °CWind: 20 km/h ↑ from East",
-    "humidity": "Humidity:  63%"
+    "temp": "25 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
+    "wind": "Feels Like: 25 °CForecast: 23 / 31 °CWind: No wind",
+    "humidity": "Humidity:  100%"
   },
   {
     "city": "Charleston",
     "link": "https://www.timeanddate.com/weather/usa/charleston-wv",
-    "temp": "31 °C",
+    "temp": "21 °C",
     "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
-    "humidity": "Humidity:  59%",
-    "wind": "Feels Like: 34 °CForecast: 21 / 33 °CWind: 19 km/h ↑ from Southwest"
+    "wind": "Feels Like: 17 °CForecast: 22 / 28 °CWind: No wind",
+    "humidity": "Humidity:  100%"
   },
   {
     "city": "Chelyabinsk",
     "link": "https://www.timeanddate.com/weather/russia/chelyabinsk",
-    "temp": "16 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-14.png",
+    "temp": "18 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
     "humidity": "Humidity:  88%",
-    "wind": "Feels Like: 16 °CForecast: 12 / 20 °CWind: 13 km/h ↑ from West"
+    "wind": "Feels Like: 18 °CForecast: 8 / 16 °CWind: 13 km/h ↑ from Northwest"
   },
   {
     "city": "Chennai",
     "link": "https://www.timeanddate.com/weather/india/chennai",
-    "temp": "30 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-14.png",
-    "humidity": "Humidity:  75%",
-    "wind": "Feels Like: 36 °CForecast: 27 / 34 °CWind: 7 km/h ↑ from Southwest"
+    "temp": "33 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
+    "wind": "Feels Like: 41 °CForecast: 27 / 34 °CWind: 22 km/h ↑ from Southeast",
+    "humidity": "Humidity:  63%"
   },
   {
     "city": "Cheyenne",
     "link": "https://www.timeanddate.com/weather/usa/cheyenne",
-    "temp": "19 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-1.png",
-    "humidity": "Humidity:  63%",
-    "wind": "Feels Like: 25 °CForecast: 9 / 27 °CWind: 9 km/h ↑ from South"
+    "temp": "14 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-13.png",
+    "humidity": "Humidity:  39%",
+    "wind": "Feels Like: 12 °CForecast: 12 / 29 °CWind: 19 km/h ↑ from West"
   },
   {
     "city": "Chibougamau",
     "link": "https://www.timeanddate.com/weather/canada/chibougamau",
-    "temp": "9 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-19.png",
-    "humidity": "Humidity:  94%",
-    "wind": "Feels Like: 7 °CForecast: 8 / 10 °CWind: 13 km/h ↑ from North"
+    "temp": "7 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-7.png",
+    "humidity": "Humidity:  93%",
+    "wind": "Feels Like: 6 °CForecast: 4 / 12 °CWind: 7 km/h ↑ from Northwest"
   },
   {
     "city": "Chicago",
     "link": "https://www.timeanddate.com/weather/usa/chicago",
-    "temp": "23 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-7.png",
-    "humidity": "Humidity:  82%",
-    "wind": "Feels Like: 19 °CForecast: 20 / 23 °CWind: 15 km/h ↑ from West"
+    "temp": "19 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-14.png",
+    "humidity": "Humidity:  73%",
+    "wind": "Feels Like: 19 °CForecast: 18 / 21 °CWind: 11 km/h ↑ from East"
   },
   {
     "city": "Chita",
     "link": "https://www.timeanddate.com/weather/russia/chita",
-    "temp": "9 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-36.png",
-    "humidity": "Humidity:  94%",
-    "wind": "Feels Like: 9 °CForecast: 8 / 23 °CWind: 2 km/h ↑ from North"
+    "temp": "22 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-1.png",
+    "humidity": "Humidity:  41%",
+    "wind": "Feels Like: 25 °CForecast: 10 / 22 °CWind: 2 km/h ↑ from Northeast"
   },
   {
     "city": "Chișinău",
     "link": "https://www.timeanddate.com/weather/moldova/chisinau",
-    "temp": "26 °C",
+    "temp": "28 °C",
     "img": "https://c.tadst.com/gfx/w//40/wt-1.png",
-    "humidity": "Humidity:  51%",
-    "wind": "Feels Like: 27 °CForecast: 16 / 28 °CWind: 17 km/h ↑ from Northwest"
+    "humidity": "Humidity:  35%",
+    "wind": "Feels Like: 27 °CForecast: 14 / 31 °CWind: 15 km/h ↑ from Northwest"
   },
   {
     "city": "Chongqing",
     "link": "https://www.timeanddate.com/weather/china/chongqing",
-    "temp": "31 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-13.png",
-    "humidity": "Humidity:  62%",
-    "wind": "Feels Like: 35 °CForecast: 26 / 38 °CWind: No wind"
+    "temp": "36 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-1.png",
+    "humidity": "Humidity:  37%",
+    "wind": "Feels Like: 38 °CForecast: 27 / 40 °CWind: 13 km/h ↑ from East"
   },
   {
     "city": "Colombo",
     "link": "https://www.timeanddate.com/weather/sri-lanka/colombo",
     "temp": "28 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-6.png",
-    "wind": "Feels Like: 31 °CForecast: 26 / 29 °CWind: 6 km/h ↑ from Southwest",
-    "humidity": "Humidity:  77%"
+    "img": "https://c.tadst.com/gfx/w//40/wt-7.png",
+    "humidity": "Humidity:  75%",
+    "wind": "Feels Like: 32 °CForecast: 26 / 28 °CWind: 4 km/h ↑ from Southwest"
   },
   {
     "city": "Columbia",
     "link": "https://www.timeanddate.com/weather/usa/columbia",
-    "temp": "29 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-1.png",
-    "wind": "Feels Like: 33 °CForecast: 23 / 34 °CWind: 6 km/h ↑ from North",
-    "humidity": "Humidity:  68%"
+    "temp": "23 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-13.png",
+    "humidity": "Humidity:  91%",
+    "wind": "Feels Like: 22 °CForecast: 23 / 34 °CWind: No wind"
   },
   {
     "city": "Columbus",
     "link": "https://www.timeanddate.com/weather/usa/columbus",
-    "temp": "30 °C",
+    "temp": "21 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-15.png",
+    "humidity": "Humidity:  90%",
+    "wind": "Feels Like: 19 °CForecast: 20 / 27 °CWind: 9 km/h ↑ from North"
+  },
+  {
+    "city": "Conakry",
+    "link": "https://www.timeanddate.com/weather/guinea/conakry",
+    "temp": "25 °C",
     "img": "https://c.tadst.com/gfx/w//40/wt-6.png",
-    "humidity": "Humidity:  63%",
-    "wind": "Feels Like: 33 °CForecast: 22 / 31 °CWind: 20 km/h ↑ from Southwest"
+    "wind": "Feels Like: 26 °CForecast: 25 / 26 °CWind: 11 km/h ↑ from East",
+    "humidity": "Humidity:  94%"
   },
   {
     "city": "Concord",
     "link": "https://www.timeanddate.com/weather/usa/concord",
-    "temp": "32 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-1.png",
-    "wind": "Feels Like: 36 °CForecast: 22 / 34 °CWind: 15 km/h ↑ from Southwest",
-    "humidity": "Humidity:  59%"
+    "temp": "23 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-14.png",
+    "humidity": "Humidity:  84%",
+    "wind": "Feels Like: 22 °CForecast: 17 / 28 °CWind: 7 km/h ↑ from Southwest"
   },
   {
     "city": "Copenhagen",
     "link": "https://www.timeanddate.com/weather/denmark/copenhagen",
-    "temp": "19 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-1.png",
-    "wind": "Feels Like: 19 °CForecast: 15 / 17 °CWind: 19 km/h ↑ from Southeast",
-    "humidity": "Humidity:  64%"
+    "temp": "17 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-18.png",
+    "wind": "Feels Like: 17 °CForecast: 14 / 19 °CWind: 13 km/h ↑ from Northeast",
+    "humidity": "Humidity:  94%"
   },
   {
     "city": "Coral Harbour",
     "link": "https://www.timeanddate.com/weather/canada/coral-harbour",
-    "temp": "6 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-18.png",
-    "wind": "Feels Like: 4 °CForecast: 2 / 8 °CWind: 9 km/h ↑ from South",
-    "humidity": "Humidity:  93%"
+    "temp": "4 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-9.png",
+    "wind": "Feels Like: 0 °CForecast: 2 / 7 °CWind: 19 km/h ↑ from West",
+    "humidity": "Humidity:  100%"
   },
   {
     "city": "Córdoba",
     "link": "https://www.timeanddate.com/weather/argentina/cordoba",
-    "temp": "24 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-1.png",
-    "wind": "Feels Like: 25 °CForecast: 10 / 30 °CWind: 9 km/h ↑ from South",
-    "humidity": "Humidity:  36%"
+    "temp": "14 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-14.png",
+    "wind": "Feels Like: 13 °CForecast: 10 / 16 °CWind: 22 km/h ↑ from Southwest",
+    "humidity": "Humidity:  41%"
   },
   {
     "city": "Dakar",
     "link": "https://www.timeanddate.com/weather/senegal/dakar",
-    "temp": "30 °C",
+    "temp": "29 °C",
     "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
-    "wind": "Feels Like: 39 °CForecast: N/AWind: 7 km/h ↑ from Southwest",
-    "humidity": "Humidity:  84%"
+    "wind": "Feels Like: 35 °CForecast: 26 / 29 °CWind: 19 km/h ↑ from North",
+    "humidity": "Humidity:  79%"
   },
   {
     "city": "Dallas",
     "link": "https://www.timeanddate.com/weather/usa/dallas",
-    "temp": "31 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
-    "wind": "Feels Like: 35 °CForecast: 26 / 36 °CWind: 17 km/h ↑ from Southwest",
-    "humidity": "Humidity:  56%"
+    "temp": "26 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-14.png",
+    "wind": "Feels Like: 28 °CForecast: 25 / 35 °CWind: 6 km/h ↑ from North",
+    "humidity": "Humidity:  72%"
   },
   {
     "city": "Damascus",
     "link": "https://www.timeanddate.com/weather/syria/damascus",
-    "temp": "35 °C",
+    "temp": "39 °C",
     "img": "https://c.tadst.com/gfx/w//40/wt-1.png",
-    "wind": "Feels Like: 33 °CForecast: 18 / 38 °CWind: 4 km/h ↑ from North",
-    "humidity": "Humidity:  21%"
+    "wind": "Feels Like: 37 °CForecast: 19 / 39 °CWind: 13 km/h ↑ from Southwest",
+    "humidity": "Humidity:  16%"
   },
   {
     "city": "Danmarkshavn",
     "link": "https://www.timeanddate.com/weather/greenland/danmarkshavn",
-    "temp": "1 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-6.png",
-    "wind": "Feels Like: -1 °CForecast: N/AWind: 6 km/h ↑ from Southeast",
-    "humidity": "Humidity:  64%"
+    "temp": "0 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-1.png",
+    "wind": "Feels Like: -7 °CForecast: -3 / 0 °CWind: 37 km/h ↑ from West",
+    "humidity": "Humidity:  56%"
   },
   {
     "city": "Dar es Salaam",
     "link": "https://www.timeanddate.com/weather/tanzania/dar-es-salaam",
-    "temp": "26 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-14.png",
-    "wind": "Feels Like: 27 °CForecast: 23 / 29 °CWind: 19 km/h ↑ from Southeast",
-    "humidity": "Humidity:  74%"
+    "temp": "30 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-6.png",
+    "wind": "Feels Like: 33 °CForecast: 24 / 28 °CWind: 19 km/h ↑ from Southeast",
+    "humidity": "Humidity:  62%"
   },
   {
     "city": "Darwin",
     "link": "https://www.timeanddate.com/weather/australia/darwin",
-    "temp": "21 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-14.png",
-    "wind": "Feels Like: 21 °CForecast: 19 / 31 °CWind: 4 km/h ↑ from Southwest",
-    "humidity": "Humidity:  94%"
+    "temp": "26 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-13.png",
+    "humidity": "Humidity:  70%",
+    "wind": "Feels Like: 27 °CForecast: 21 / 30 °CWind: 13 km/h ↑ from West"
   },
   {
     "city": "Delhi",
     "link": "https://www.timeanddate.com/weather/india/delhi",
-    "temp": "27 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-19.png",
-    "humidity": "Humidity:  98%",
-    "wind": "Feels Like: 32 °CForecast: 28 / 34 °CWind: No wind"
+    "temp": "34 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-6.png",
+    "wind": "Feels Like: 45 °CForecast: 28 / 35 °CWind: 7 km/h ↑ from West",
+    "humidity": "Humidity:  63%"
   },
   {
     "city": "Denpasar",
     "link": "https://www.timeanddate.com/weather/indonesia/denpasar",
-    "temp": "24 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-17.png",
-    "humidity": "Humidity:  84%",
-    "wind": "Feels Like: 25 °CForecast: 24 / 29 °CWind: 2 km/h ↑ from Southeast"
+    "temp": "27 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-7.png",
+    "humidity": "Humidity:  72%",
+    "wind": "Feels Like: 29 °CForecast: 26 / 29 °CWind: 9 km/h ↑ from South"
   },
   {
     "city": "Denver",
     "link": "https://www.timeanddate.com/weather/usa/denver",
-    "temp": "20 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
-    "humidity": "Humidity:  54%",
-    "wind": "Feels Like: 25 °CForecast: 12 / 31 °CWind: No wind"
+    "temp": "16 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-14.png",
+    "humidity": "Humidity:  68%",
+    "wind": "Feels Like: 16 °CForecast: 15 / 32 °CWind: 13 km/h ↑ from Southwest"
   },
   {
     "city": "Des Moines",
     "link": "https://www.timeanddate.com/weather/usa/des-moines",
-    "temp": "20 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
-    "humidity": "Humidity:  57%",
-    "wind": "Feels Like: 25 °CForecast: 14 / 23 °CWind: 9 km/h ↑ from Northeast"
+    "temp": "16 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-14.png",
+    "wind": "Feels Like: 16 °CForecast: 12 / 25 °CWind: 11 km/h ↑ from East",
+    "humidity": "Humidity:  83%"
   },
   {
     "city": "Detroit",
     "link": "https://www.timeanddate.com/weather/usa/detroit",
-    "temp": "24 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-7.png",
-    "wind": "Feels Like: 27 °CForecast: 21 / 28 °CWind: 19 km/h ↑ from Northwest",
-    "humidity": "Humidity:  62%"
+    "temp": "17 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-14.png",
+    "humidity": "Humidity:  75%",
+    "wind": "Feels Like: 17 °CForecast: 17 / 24 °CWind: 11 km/h ↑ from North"
   },
   {
     "city": "Dhaka",
     "link": "https://www.timeanddate.com/weather/bangladesh/dhaka",
-    "temp": "30 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-6.png",
-    "humidity": "Humidity:  77%",
-    "wind": "Feels Like: 38 °CForecast: 27 / 33 °CWind: 4 km/h ↑ from Southwest"
+    "temp": "31 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-18.png",
+    "humidity": "Humidity:  73%",
+    "wind": "Feels Like: 40 °CForecast: 27 / 34 °CWind: 6 km/h ↑ from South"
   },
   {
     "city": "Djibouti",
     "link": "https://www.timeanddate.com/weather/djibouti/djibouti",
-    "temp": "37 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-6.png",
-    "humidity": "Humidity:  N/A",
-    "wind": "Feels Like: N/AForecast: 30 / 38 °CWind: 33 km/h ↑ from West"
+    "temp": "39 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-1.png",
+    "humidity": "Humidity:  45%",
+    "wind": "Feels Like: 48 °CForecast: 31 / 39 °CWind: 32 km/h ↑ from West"
   },
   {
     "city": "Dnipro",
     "link": "https://www.timeanddate.com/weather/ukraine/dnipro",
     "temp": "30 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
-    "humidity": "Humidity:  20%",
-    "wind": "Feels Like: 28 °CForecast: 17 / 33 °CWind: 7 km/h ↑ from East"
+    "img": "https://c.tadst.com/gfx/w//40/wt-1.png",
+    "humidity": "Humidity:  30%",
+    "wind": "Feels Like: 29 °CForecast: 20 / 34 °CWind: 7 km/h ↑ from North"
   },
   {
     "city": "Dodoma",
     "link": "https://www.timeanddate.com/weather/tanzania/dodoma",
-    "temp": "24 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-14.png",
-    "humidity": "Humidity:  39%",
-    "wind": "Feels Like: 25 °CForecast: 15 / 27 °CWind: 20 km/h ↑ from Southeast"
+    "temp": "25 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
+    "humidity": "Humidity:  42%",
+    "wind": "Feels Like: 26 °CForecast: 15 / 27 °CWind: 15 km/h ↑ from East"
   },
   {
     "city": "Doha",
     "link": "https://www.timeanddate.com/weather/qatar/doha",
-    "temp": "35 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-13.png",
-    "humidity": "Humidity:  75%",
-    "wind": "Feels Like: 55 °CForecast: 32 / 42 °CWind: 11 km/h ↑ from Northeast"
+    "temp": "37 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-1.png",
+    "humidity": "Humidity:  53%",
+    "wind": "Feels Like: 48 °CForecast: 31 / 43 °CWind: 17 km/h ↑ from East"
   },
   {
     "city": "Douglas",
     "link": "https://www.timeanddate.com/weather/isle-of-man/douglas",
-    "temp": "16 °C",
+    "temp": "15 °C",
     "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
-    "humidity": "Humidity:  68%",
-    "wind": "Feels Like: 16 °CForecast: 10 / 16 °CWind: 13 km/h ↑ from West"
+    "humidity": "Humidity:  77%",
+    "wind": "Feels Like: 15 °CForecast: 12 / 18 °CWind: 9 km/h ↑ from Southeast"
   },
   {
     "city": "Dover",
     "link": "https://www.timeanddate.com/weather/usa/dover",
-    "temp": "33 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-1.png",
-    "wind": "Feels Like: 40 °CForecast: 24 / 34 °CWind: 15 km/h ↑ from Southwest",
-    "humidity": "Humidity:  58%"
+    "temp": "25 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-6.png",
+    "wind": "Feels Like: 26 °CForecast: 25 / 31 °CWind: 13 km/h ↑ from Southwest",
+    "humidity": "Humidity:  90%"
   },
   {
     "city": "Dubai",
     "link": "https://www.timeanddate.com/weather/united-arab-emirates/dubai",
-    "temp": "37 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-13.png",
-    "wind": "Feels Like: 39 °CForecast: 31 / 38 °CWind: 11 km/h ↑ from Northeast",
-    "humidity": "Humidity:  33%"
+    "temp": "38 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-1.png",
+    "wind": "Feels Like: 41 °CForecast: 32 / 38 °CWind: 24 km/h ↑ from West",
+    "humidity": "Humidity:  35%"
   },
   {
     "city": "Dublin",
     "link": "https://www.timeanddate.com/weather/ireland/dublin",
-    "temp": "17 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
-    "humidity": "Humidity:  55%",
-    "wind": "Feels Like: 16 °CForecast: 9 / 16 °CWind: 20 km/h ↑ from Northwest"
+    "temp": "15 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-6.png",
+    "wind": "Feels Like: 15 °CForecast: 9 / 17 °CWind: 6 km/h ↑ from North",
+    "humidity": "Humidity:  63%"
   },
   {
     "city": "Dushanbe",
     "link": "https://www.timeanddate.com/weather/tajikistan/dushanbe",
-    "temp": "24 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-13.png",
-    "humidity": "Humidity:  33%",
-    "wind": "Feels Like: 25 °CForecast: 16 / 31 °CWind: 6 km/h ↑ from East"
+    "temp": "31 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-1.png",
+    "wind": "Feels Like: 29 °CForecast: 16 / 31 °CWind: 9 km/h ↑ from Southwest",
+    "humidity": "Humidity:  17%"
   },
   {
     "city": "Easter Island",
     "link": "https://www.timeanddate.com/weather/chile/easter-island",
-    "temp": "21 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-6.png",
-    "wind": "Feels Like: 21 °CForecast: 15 / 20 °CWind: No wind",
-    "humidity": "Humidity:  69%"
+    "temp": "18 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-15.png",
+    "wind": "Feels Like: 18 °CForecast: 16 / 20 °CWind: 7 km/h ↑ from Northeast",
+    "humidity": "Humidity:  78%"
   },
   {
     "city": "Edinburgh",
     "link": "https://www.timeanddate.com/weather/uk/edinburgh",
-    "temp": "17 °C",
+    "temp": "15 °C",
     "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
-    "wind": "Feels Like: 16 °CForecast: 7 / 15 °CWind: 20 km/h ↑ from West",
-    "humidity": "Humidity:  52%"
+    "wind": "Feels Like: 15 °CForecast: 8 / 19 °CWind: 9 km/h ↑ from West",
+    "humidity": "Humidity:  63%"
   },
   {
     "city": "Edmonton",
     "link": "https://www.timeanddate.com/weather/canada/edmonton",
-    "temp": "14 °C",
+    "temp": "11 °C",
     "img": "https://c.tadst.com/gfx/w//40/wt-36.png",
-    "wind": "Feels Like: 13 °CForecast: 11 / 19 °CWind: 9 km/h ↑ from Southwest",
-    "humidity": "Humidity:  81%"
+    "humidity": "Humidity:  86%",
+    "wind": "Feels Like: 10 °CForecast: 9 / 16 °CWind: 13 km/h ↑ from Northwest"
   },
   {
     "city": "El Aaiún",
     "link": "https://www.timeanddate.com/weather/western-sahara/el-aaiun",
-    "temp": "29 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-11.png",
-    "humidity": "Humidity:  45%",
-    "wind": "Feels Like: 28 °CForecast: 21 / 29 °CWind: 56 km/h ↑ from Northeast"
+    "temp": "26 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-1.png",
+    "wind": "Feels Like: 27 °CForecast: 20 / 29 °CWind: 37 km/h ↑ from Northeast",
+    "humidity": "Humidity:  54%"
   },
   {
     "city": "Eucla",
     "link": "https://www.timeanddate.com/weather/australia/eucla",
-    "temp": "12 °C",
+    "temp": "14 °C",
     "img": "https://c.tadst.com/gfx/w//40/wt-36.png",
-    "humidity": "Humidity:  86%",
-    "wind": "Feels Like: 10 °CForecast: 12 / 17 °CWind: 19 km/h ↑ from Northwest"
+    "wind": "Feels Like: 13 °CForecast: 12 / 17 °CWind: 15 km/h ↑ from Northwest",
+    "humidity": "Humidity:  51%"
   },
   {
     "city": "Eureka",
     "link": "https://www.timeanddate.com/weather/canada/eureka",
-    "temp": "0 °C",
+    "temp": "-1 °C",
     "img": "https://c.tadst.com/gfx/w//40/wt-6.png",
-    "humidity": "Humidity:  80%",
-    "wind": "Feels Like: -7 °CForecast: 0 / 1 °CWind: 32 km/h ↑ from Southeast"
+    "wind": "Feels Like: -6 °CForecast: -2 / 3 °CWind: 19 km/h ↑ from Southeast",
+    "humidity": "Humidity:  93%"
   },
   {
     "city": "Fairbanks",
     "link": "https://www.timeanddate.com/weather/usa/fairbanks",
-    "temp": "9 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-6.png",
-    "humidity": "Humidity:  91%",
-    "wind": "Feels Like: 9 °CForecast: 6 / 13 °CWind: 6 km/h ↑ from Southwest"
+    "temp": "7 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-14.png",
+    "wind": "Feels Like: 7 °CForecast: 7 / 10 °CWind: No wind",
+    "humidity": "Humidity:  92%"
   },
   {
     "city": "Fort-de-France",
     "link": "https://www.timeanddate.com/weather/martinique/fort-de-france",
-    "temp": "30 °C",
+    "temp": "27 °C",
     "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
-    "humidity": "Humidity:  70%",
-    "wind": "Feels Like: 38 °CForecast: 26 / 29 °CWind: 22 km/h ↑ from Southeast"
+    "wind": "Feels Like: 31 °CForecast: 26 / 31 °CWind: 9 km/h ↑ from Southeast",
+    "humidity": "Humidity:  89%"
   },
   {
     "city": "Fortaleza",
     "link": "https://www.timeanddate.com/weather/brazil/fortaleza",
-    "temp": "29 °C",
+    "temp": "27 °C",
     "img": "https://c.tadst.com/gfx/w//40/wt-1.png",
-    "humidity": "Humidity:  62%",
-    "wind": "Feels Like: 31 °CForecast: 25 / 32 °CWind: 28 km/h ↑ from East"
+    "wind": "Feels Like: 28 °CForecast: 25 / 32 °CWind: 30 km/h ↑ from Southeast",
+    "humidity": "Humidity:  58%"
   },
   {
     "city": "Frankfurt",
     "link": "https://www.timeanddate.com/weather/germany/frankfurt",
-    "temp": "21 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-33.png",
-    "humidity": "Humidity:  88%",
-    "wind": "Feels Like: 21 °CForecast: 14 / 21 °CWind: 6 km/h ↑ from Northwest"
+    "temp": "19 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-6.png",
+    "wind": "Feels Like: 19 °CForecast: 12 / 22 °CWind: 15 km/h ↑ from Northwest",
+    "humidity": "Humidity:  60%"
   },
   {
     "city": "Freetown",
     "link": "https://www.timeanddate.com/weather/sierra-leone/freetown",
-    "temp": "24 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-22.png",
-    "humidity": "Humidity:  83%",
-    "wind": "Feels Like: 24 °CForecast: N/AWind: 11 km/h ↑ from Northwest"
+    "temp": "27 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-6.png",
+    "humidity": "Humidity:  79%",
+    "wind": "Feels Like: 30 °CForecast: 24 / 27 °CWind: 7 km/h ↑ from Northeast"
   },
   {
     "city": "Funafuti",
     "link": "https://www.timeanddate.com/weather/tuvalu/funafuti",
     "temp": "29 °C",
     "img": "https://c.tadst.com/gfx/w//40/wt-14.png",
-    "humidity": "Humidity:  74%",
-    "wind": "Feels Like: 34 °CForecast: 28 / 31 °CWind: 13 km/h ↑ from Northeast"
+    "humidity": "Humidity:  66%",
+    "wind": "Feels Like: 32 °CForecast: 27 / 30 °CWind: 11 km/h ↑ from East"
   },
   {
     "city": "Gaborone",
     "link": "https://www.timeanddate.com/weather/botswana/gaborone",
-    "temp": "23 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-1.png",
-    "wind": "Feels Like: 19 °CForecast: 9 / 26 °CWind: 11 km/h ↑ from East",
-    "humidity": "Humidity:  30%"
+    "temp": "24 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
+    "humidity": "Humidity:  21%",
+    "wind": "Feels Like: 25 °CForecast: 10 / 28 °CWind: 19 km/h ↑ from Northeast"
   },
   {
     "city": "Geneva",
     "link": "https://www.timeanddate.com/weather/switzerland/geneva",
-    "temp": "28 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
-    "wind": "Feels Like: 28 °CForecast: 14 / 22 °CWind: 26 km/h ↑ from Southwest",
-    "humidity": "Humidity:  47%"
+    "temp": "20 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-36.png",
+    "humidity": "Humidity:  59%",
+    "wind": "Feels Like: 20 °CForecast: 13 / 22 °CWind: 6 km/h ↑ from Northwest"
   },
   {
     "city": "George Town (Cayman)",
     "link": "https://www.timeanddate.com/weather/uk/georgetown",
-    "temp": "32 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
-    "wind": "Feels Like: 39 °CForecast: 28 / 30 °CWind: 17 km/h ↑ from East",
-    "humidity": "Humidity:  67%"
+    "temp": "26 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-14.png",
+    "humidity": "Humidity:  84%",
+    "wind": "Feels Like: 28 °CForecast: 28 / 30 °CWind: 6 km/h ↑ from Southeast"
   },
   {
     "city": "Georgetown (Guyana)",
     "link": "https://www.timeanddate.com/weather/guyana/georgetown",
-    "temp": "31 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-6.png",
-    "wind": "Feels Like: 39 °CForecast: 26 / 31 °CWind: 6 km/h ↑ from Northeast",
-    "humidity": "Humidity:  70%"
+    "temp": "24 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
+    "humidity": "Humidity:  94%",
+    "wind": "Feels Like: 23 °CForecast: 24 / 31 °CWind: No wind"
   },
   {
     "city": "Gibraltar",
     "link": "https://www.timeanddate.com/weather/gibraltar/gibraltar",
-    "temp": "28 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
-    "humidity": "Humidity:  40%",
-    "wind": "Feels Like: 29 °CForecast: 21 / 27 °CWind: 17 km/h ↑ from Southwest"
+    "temp": "24 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-6.png",
+    "humidity": "Humidity:  83%",
+    "wind": "Feels Like: 24 °CForecast: 23 / 26 °CWind: 20 km/h ↑ from East"
   },
   {
     "city": "Glasgow",
     "link": "https://www.timeanddate.com/weather/uk/glasgow",
     "temp": "15 °C",
     "img": "https://c.tadst.com/gfx/w//40/wt-36.png",
-    "wind": "Feels Like: 13 °CForecast: 7 / 15 °CWind: 26 km/h ↑ from West",
-    "humidity": "Humidity:  63%"
-  },
-  {
-    "city": "Grise Fiord",
-    "link": "https://www.timeanddate.com/weather/canada/grise-fiord",
-    "temp": "-1 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-6.png",
-    "humidity": "Humidity:  100%",
-    "wind": "Feels Like: -3 °CForecast: -1 / 1 °CWind: 6 km/h ↑ from Southwest"
+    "humidity": "Humidity:  68%",
+    "wind": "Feels Like: 15 °CForecast: 5 / 18 °CWind: 6 km/h ↑ from North"
   },
   {
     "city": "Guadalajara",
     "link": "https://www.timeanddate.com/weather/mexico/guadalajara",
-    "temp": "20 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-6.png",
-    "wind": "Feels Like: 24 °CForecast: 15 / 26 °CWind: No wind",
-    "humidity": "Humidity:  65%"
+    "temp": "16 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-17.png",
+    "wind": "Feels Like: 16 °CForecast: 17 / 25 °CWind: No wind",
+    "humidity": "Humidity:  94%"
   },
   {
     "city": "Guatemala City",
     "link": "https://www.timeanddate.com/weather/guatemala/guatemala",
-    "temp": "23 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-6.png",
-    "wind": "Feels Like: 25 °CForecast: 15 / 25 °CWind: 19 km/h ↑ from Northeast",
-    "humidity": "Humidity:  57%"
+    "temp": "17 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-15.png",
+    "wind": "Feels Like: 17 °CForecast: 16 / 24 °CWind: 22 km/h ↑ from North",
+    "humidity": "Humidity:  94%"
   },
   {
     "city": "Guayaquil",
     "link": "https://www.timeanddate.com/weather/ecuador/guayaquil",
-    "temp": "24 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-2.png",
-    "wind": "Feels Like: 27 °CForecast: 19 / 28 °CWind: 11 km/h ↑ from West",
-    "humidity": "Humidity:  61%"
+    "temp": "21 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-15.png",
+    "wind": "Feels Like: 21 °CForecast: 20 / 29 °CWind: 11 km/h ↑ from Southwest",
+    "humidity": "Humidity:  83%"
   },
   {
     "city": "Hagåtña",
     "link": "https://www.timeanddate.com/weather/usa/guam-hagatna",
-    "temp": "28 °C",
-    "img": "https://c.tadst.com/gfx/w//40/wt-13.png",
-    "humidity": "Humidity:  97%",
-    "wind": "Feels Like: 34 °CForecast: 26 / 30 °CWind: No wind"
+    "temp": "30 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-1.png",
+    "wind": "Feels Like: 38 °CForecast: 26 / 30 °CWind: 20 km/h ↑ from West",
+    "humidity": "Humidity:  83%"
+  },
+  {
+    "city": "Halifax",
+    "link": "https://www.timeanddate.com/weather/canada/halifax",
+    "temp": "20 °C",
+    "img": "https://c.tadst.com/gfx/w//40/wt-9.png",
+    "wind": "Feels Like: 20 °CForecast: 17 / 27 °CWind: 13 km/h ↑ from Southwest",
+    "humidity": "Humidity:  100%"
   }
 ]
